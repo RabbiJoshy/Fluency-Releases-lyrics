@@ -1,0 +1,119 @@
+{
+  "artists": [
+    {
+      "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
+      "card_count": 10687,
+      "example_card_count": 10687,
+      "examples_content_id": "sha256:c1eb5d45fab605226e7e9c56efb80ab3b2519234dcf247f7384bc04eb6ce952b",
+      "index_content_id": "sha256:ba68d7448a684dd7781d5be5747b1d0f25c824fb5f7414a4a715cc1ae717c63a",
+      "language": "es",
+      "master_content_id": "sha256:b8d7bb2f84e40d5f6dad219269cd54a9a6c0d2c180c13a60683ec75d901e6d6e",
+      "migration_status": "lyrics_v20_shared_resolver_rebuild",
+      "name": "Bad Bunny",
+      "slug": "bad-bunny",
+      "song_count": 295,
+      "source_id": "wsd_v20_plant_bad-bunny",
+      "wsd_evidence_content_id": "sha256:0ed6b840190e9584b5f93b330f0a7a31681d005a1f0cec6800d5b01db92099f3"
+    },
+    {
+      "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
+      "card_count": 1860,
+      "example_card_count": 1860,
+      "examples_content_id": "sha256:6ac42136304c05e59f7d2b6f5cee3552ac39e65cdf4169bc5477d349e9e3c8a7",
+      "index_content_id": "sha256:aa0791b595e6b44d574f29a2f50b7792567002571c80fbe33e2b4765af638902",
+      "language": "es",
+      "master_content_id": "sha256:d28da8fcef3957ee4d8a65cb366e7fb08555064bbfb1c64d3046effe8a665840",
+      "migration_status": "lyrics_v20_shared_resolver_rebuild",
+      "name": "Joshua's Test Playlist",
+      "slug": "spanish-test-playlist",
+      "song_count": 31,
+      "source_id": "wsd_v20_plant_spanish-test-playlist",
+      "wsd_evidence_content_id": "sha256:76f0274257602868e6566bf40e30bd0b2495daaf14bb6340061897c0ca6f99cf"
+    },
+    {
+      "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
+      "card_count": 3224,
+      "example_card_count": 3224,
+      "examples_content_id": "sha256:f8d930256b8846fb7b6b655785b9c3df8d713a5acdad9218692d3a491fd68c47",
+      "index_content_id": "sha256:9546ab9e22811a5f5852c969b04d7a40b816339d276c1ed81ebfdae581549e14",
+      "language": "es",
+      "master_content_id": "sha256:0c1de32949156bc90b793a2a2663282ab174189a03d96245ee46de7f2d4baf63",
+      "migration_status": "lyrics_v20_shared_resolver_rebuild",
+      "name": "Rosalía",
+      "slug": "rosalia",
+      "song_count": 107,
+      "source_id": "wsd_v20_plant_rosalia",
+      "wsd_evidence_content_id": "sha256:fcb4ba34b64c16f31c63e7b693856041b9aef4578f8e1f04e36f6aff5dd7c1ac"
+    },
+    {
+      "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
+      "card_count": 4461,
+      "example_card_count": 4461,
+      "examples_content_id": "sha256:91fbea3f6fb7daf8a71357e968debd43eaddb084852625c158ad8ba44bb4300a",
+      "index_content_id": "sha256:3872e56b40bf832f04bc614ae2708c2ce619c6c7dd86d0c8e7161440d0e3ed24",
+      "language": "es",
+      "master_content_id": "sha256:ec3c61977d47945989a556617de5e6258cbc618f653338ac1ff7272689ae061b",
+      "migration_status": "lyrics_v20_shared_resolver_rebuild",
+      "name": "Young Miko",
+      "slug": "young-miko",
+      "song_count": 90,
+      "source_id": "wsd_v20_plant_young-miko",
+      "wsd_evidence_content_id": "sha256:8703b8e84453ff0211f457016c28dcf71dc20557a0c15b4dd2218037ca6a0380"
+    }
+  ],
+  "composition_version": "lyrics-release-composition/v1",
+  "conflict_policy": "error",
+  "created_at": "2026-09-27T18:42:39.028656+00:00",
+  "fallback_policy": "none",
+  "layers": {
+    "artist:bad-bunny": {
+      "artifact_ids": {
+        "examples": "sha256:c1eb5d45fab605226e7e9c56efb80ab3b2519234dcf247f7384bc04eb6ce952b",
+        "index": "sha256:ba68d7448a684dd7781d5be5747b1d0f25c824fb5f7414a4a715cc1ae717c63a",
+        "master": "sha256:b8d7bb2f84e40d5f6dad219269cd54a9a6c0d2c180c13a60683ec75d901e6d6e",
+        "wsd_evidence": "sha256:0ed6b840190e9584b5f93b330f0a7a31681d005a1f0cec6800d5b01db92099f3"
+      },
+      "requires": {},
+      "source_id": "wsd_v20_plant_bad-bunny",
+      "source_type": "lyrics_v20_plant"
+    },
+    "artist:rosalia": {
+      "artifact_ids": {
+        "examples": "sha256:f8d930256b8846fb7b6b655785b9c3df8d713a5acdad9218692d3a491fd68c47",
+        "index": "sha256:9546ab9e22811a5f5852c969b04d7a40b816339d276c1ed81ebfdae581549e14",
+        "master": "sha256:0c1de32949156bc90b793a2a2663282ab174189a03d96245ee46de7f2d4baf63",
+        "wsd_evidence": "sha256:fcb4ba34b64c16f31c63e7b693856041b9aef4578f8e1f04e36f6aff5dd7c1ac"
+      },
+      "requires": {},
+      "source_id": "wsd_v20_plant_rosalia",
+      "source_type": "lyrics_v20_plant"
+    },
+    "artist:spanish-test-playlist": {
+      "artifact_ids": {
+        "examples": "sha256:6ac42136304c05e59f7d2b6f5cee3552ac39e65cdf4169bc5477d349e9e3c8a7",
+        "index": "sha256:aa0791b595e6b44d574f29a2f50b7792567002571c80fbe33e2b4765af638902",
+        "master": "sha256:d28da8fcef3957ee4d8a65cb366e7fb08555064bbfb1c64d3046effe8a665840",
+        "wsd_evidence": "sha256:76f0274257602868e6566bf40e30bd0b2495daaf14bb6340061897c0ca6f99cf"
+      },
+      "requires": {},
+      "source_id": "wsd_v20_plant_spanish-test-playlist",
+      "source_type": "lyrics_v20_plant"
+    },
+    "artist:young-miko": {
+      "artifact_ids": {
+        "examples": "sha256:91fbea3f6fb7daf8a71357e968debd43eaddb084852625c158ad8ba44bb4300a",
+        "index": "sha256:3872e56b40bf832f04bc614ae2708c2ce619c6c7dd86d0c8e7161440d0e3ed24",
+        "master": "sha256:ec3c61977d47945989a556617de5e6258cbc618f653338ac1ff7272689ae061b",
+        "wsd_evidence": "sha256:8703b8e84453ff0211f457016c28dcf71dc20557a0c15b4dd2218037ca6a0380"
+      },
+      "requires": {},
+      "source_id": "wsd_v20_plant_young-miko",
+      "source_type": "lyrics_v20_plant"
+    }
+  },
+  "mode": "lyrics",
+  "omitted_layers": [],
+  "publication_status": "production_release",
+  "release_id": "lyrics-all-artists-v20",
+  "wsd_profile": "es-lyrics-v20-1"
+}
