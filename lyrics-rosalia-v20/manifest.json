@@ -1,0 +1,95 @@
+{
+  "artist_count": 1,
+  "assignment_status": "lyrics_v20_margin_confidence",
+  "card_count": 3224,
+  "catalog_content_id": "sha256:9cd748d576db3c8ab588b4d83d055e73504b0773043c8b5dcd6c38abb35453c2",
+  "catalog_path": "app/config/artists.json",
+  "composition_content_id": "sha256:20c9d36ac741e4e3a014f3a994891826ae54642ede5d62786e1e3d9ea68b878c",
+  "composition_path": "composition.json",
+  "created_at": "2026-09-27T18:42:40.702742+00:00",
+  "files": [
+    {
+      "bytes": 206099,
+      "content_id": "sha256:ac4a1271ba41c2db8f584b79a3ccfb87f431598c488fe6c9c3fd0608857add7a",
+      "path": "app/Artists/es/rosalia/Images/EL_MAL_QUERER.png"
+    },
+    {
+      "bytes": 33490,
+      "content_id": "sha256:45d32f8d116c52dd4806a9b463e8734e15f4c7ae644edb600160a0c28b64dbee",
+      "path": "app/Artists/es/rosalia/Images/LOS_ANGELES.jpg"
+    },
+    {
+      "bytes": 73656,
+      "content_id": "sha256:c764a852f8a3ba943ed21d5870caccd1d4b8fc000996951b25ac1a2d99fa31af",
+      "path": "app/Artists/es/rosalia/Images/LUX.png"
+    },
+    {
+      "bytes": 167580,
+      "content_id": "sha256:d3102383db127bf3f6503adf7972cf9b656f5d19d814678ec14690719b8050fe",
+      "path": "app/Artists/es/rosalia/Images/MOTOMAMI.webp"
+    },
+    {
+      "bytes": 118614,
+      "content_id": "sha256:c9b9d79160788b3dff2837a777d9c3406a178bbc723f83c3d1e322cae4520bcc",
+      "path": "app/Artists/es/rosalia/Images/MOTOMAMI_PLUS.png"
+    },
+    {
+      "bytes": 21701,
+      "content_id": "sha256:852cd9c4e76ca10ca1fb586a8c87f2eba34c775aae93a405d8147b00675de270",
+      "path": "app/Artists/es/rosalia/Images/RR.jpeg"
+    },
+    {
+      "bytes": 159540,
+      "content_id": "sha256:a20f4a1d9ac2cc2760ba2e7e957b0d2bd38a5115dd653fce656150a10eeeb3e9",
+      "path": "app/Artists/es/rosalia/Images/SINGLES.jpg"
+    },
+    {
+      "bytes": 3092,
+      "content_id": "sha256:d2c8dbb337672bf57babbfd98deb1095be93681ba12adc8f24c1f6d3c5ca7b83",
+      "path": "app/Artists/es/rosalia/albums.json"
+    },
+    {
+      "bytes": 5684253,
+      "content_id": "sha256:f8d930256b8846fb7b6b655785b9c3df8d713a5acdad9218692d3a491fd68c47",
+      "path": "app/Artists/es/rosalia/examples.json"
+    },
+    {
+      "bytes": 9260905,
+      "content_id": "sha256:9546ab9e22811a5f5852c969b04d7a40b816339d276c1ed81ebfdae581549e14",
+      "path": "app/Artists/es/rosalia/index.json"
+    },
+    {
+      "bytes": 185197,
+      "content_id": "sha256:62a19a284625580afbeb85cbee82457346bf16eb489a8b6ab80f6f798e908c40",
+      "path": "app/Artists/es/rosalia/songs.json"
+    },
+    {
+      "bytes": 4156769,
+      "content_id": "sha256:0c1de32949156bc90b793a2a2663282ab174189a03d96245ee46de7f2d4baf63",
+      "path": "app/Artists/es/rosalia/vocabulary_master.json"
+    },
+    {
+      "bytes": 9024246,
+      "content_id": "sha256:fcb4ba34b64c16f31c63e7b693856041b9aef4578f8e1f04e36f6aff5dd7c1ac",
+      "path": "app/Artists/es/rosalia/wsd-evidence.json"
+    },
+    {
+      "bytes": 19388,
+      "content_id": "sha256:66319a59f07f9c4a66ce02e8bb14b39fd1c1602e08554c4fb89b5d19addd2241",
+      "path": "app/Artists/spotify_tracks.json"
+    },
+    {
+      "bytes": 1301,
+      "content_id": "sha256:9cd748d576db3c8ab588b4d83d055e73504b0773043c8b5dcd6c38abb35453c2",
+      "path": "app/config/artists.json"
+    }
+  ],
+  "languages": [
+    "es"
+  ],
+  "manifest_version": "lyrics-release-manifest/v1",
+  "mode": "lyrics",
+  "publication_status": "candidate_release",
+  "release_id": "lyrics-rosalia-v20",
+  "supported_specificity_status": "not_recorded_in_materialized_sources"
+}

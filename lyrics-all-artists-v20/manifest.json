@@ -1,0 +1,220 @@
+{
+  "artist_count": 4,
+  "assignment_status": "lyrics_v20_margin_confidence",
+  "card_count": 20232,
+  "catalog_content_id": "sha256:8c79ac72804dfd5e2ac4cd989bb86261873407bcabe60e9fa263b36ab05ae2b4",
+  "catalog_path": "app/config/artists.json",
+  "composition_content_id": "sha256:f1a24ba49fcf82ec1e4922ca42d9b4599823ee104bcf6a4447514f2eec0e34b6",
+  "composition_path": "composition.json",
+  "created_at": "2026-10-11T13:36:54.584534+00:00",
+  "files": [
+    {
+      "bytes": 74157,
+      "content_id": "sha256:ca3e0d830d9857ce7113687b4c3f33cc0efd9f91513950273fbd2e6e2bd8fa9e",
+      "path": "app/Artists/es/bad-bunny/Images/DEBI_TIRAR_MAS_FOTOS.png"
+    },
+    {
+      "bytes": 236769,
+      "content_id": "sha256:cb047d4a7107fec161e371ec2bcf608b8a8f8df4540710ab863bfadb887c1537",
+      "path": "app/Artists/es/bad-bunny/Images/EL_ULTIMO_TOUR_DEL_MUNDO.png"
+    },
+    {
+      "bytes": 59678,
+      "content_id": "sha256:23aa5fdd3fd0463ec2cf6711fd28c8b469c90615afeeac966c509cd42d8c10e1",
+      "path": "app/Artists/es/bad-bunny/Images/LAS_QUE_NO_IBAN_A_SALIR.jpg"
+    },
+    {
+      "bytes": 19905,
+      "content_id": "sha256:2daff9e5ccc96bb7c8c7cfc0ece9653eeac6432f3bac4c7cdc4edb33d6f29f2b",
+      "path": "app/Artists/es/bad-bunny/Images/NADIE_SABE_LO_QUE_VA_A_PASAR_MANANA.png"
+    },
+    {
+      "bytes": 35212,
+      "content_id": "sha256:ac2620084498fd54e9e82ff848b7b07fc215ce6c4f1afb1e0f16eb124e9dcd98",
+      "path": "app/Artists/es/bad-bunny/Images/OASIS.png"
+    },
+    {
+      "bytes": 18797,
+      "content_id": "sha256:32d9edca50abea1695c6d5e69ebf19c30c6b879b627f54f4ee1453d90caa09d9",
+      "path": "app/Artists/es/bad-bunny/Images/SINGLES.jpg"
+    },
+    {
+      "bytes": 61635,
+      "content_id": "sha256:340fc6502e4ea0bac10ff15ee4059386957e56c15930ecef306372584f3a8cac",
+      "path": "app/Artists/es/bad-bunny/Images/UN_VERANO_SIN_TI.png"
+    },
+    {
+      "bytes": 12657,
+      "content_id": "sha256:35838fce1053cf3dce5e54ea5e74f0d9473cbb748ae74a55e6db572a200a8b31",
+      "path": "app/Artists/es/bad-bunny/Images/X100PRE.jpg"
+    },
+    {
+      "bytes": 218790,
+      "content_id": "sha256:27c830fbe1b1b4eae9ddeced7d7d2e7eca7f8c1ab16f317ad53eb62c35153a54",
+      "path": "app/Artists/es/bad-bunny/Images/YHLQMDLG.png"
+    },
+    {
+      "bytes": 8407,
+      "content_id": "sha256:e38a05c4dbb1a5e7b0b2f43b07983d6fbc78809bf6ffd1ae417c56b0e4b71327",
+      "path": "app/Artists/es/bad-bunny/albums.json"
+    },
+    {
+      "bytes": 26496649,
+      "content_id": "sha256:6ab2525f5617eeb12fc9501156f80135f794441a09a0767006ce29d451c9720a",
+      "path": "app/Artists/es/bad-bunny/examples.json"
+    },
+    {
+      "bytes": 29010967,
+      "content_id": "sha256:7e55b8b2d46b01f631487f55e07821e0cf5713f9bdbec3661d8a7437a5557413",
+      "path": "app/Artists/es/bad-bunny/index.json"
+    },
+    {
+      "bytes": 1104128,
+      "content_id": "sha256:75d5ac5a022cfe928a59358beabe2cf83b989f993aa13c6849987e22550ec485",
+      "path": "app/Artists/es/bad-bunny/songs.json"
+    },
+    {
+      "bytes": 14949172,
+      "content_id": "sha256:7453a7c6aebaa0aa2d528dcaafcb8b598d217e2d9f0a05b20f16c8198f317c30",
+      "path": "app/Artists/es/bad-bunny/vocabulary_master.json"
+    },
+    {
+      "bytes": 45340056,
+      "content_id": "sha256:38ba2503d4ee38cdc1a666c457f71a799cc393bfed878b568685272bf44c8c34",
+      "path": "app/Artists/es/bad-bunny/wsd-evidence.json"
+    },
+    {
+      "bytes": 206099,
+      "content_id": "sha256:ac4a1271ba41c2db8f584b79a3ccfb87f431598c488fe6c9c3fd0608857add7a",
+      "path": "app/Artists/es/rosalia/Images/EL_MAL_QUERER.png"
+    },
+    {
+      "bytes": 33490,
+      "content_id": "sha256:45d32f8d116c52dd4806a9b463e8734e15f4c7ae644edb600160a0c28b64dbee",
+      "path": "app/Artists/es/rosalia/Images/LOS_ANGELES.jpg"
+    },
+    {
+      "bytes": 73656,
+      "content_id": "sha256:c764a852f8a3ba943ed21d5870caccd1d4b8fc000996951b25ac1a2d99fa31af",
+      "path": "app/Artists/es/rosalia/Images/LUX.png"
+    },
+    {
+      "bytes": 167580,
+      "content_id": "sha256:d3102383db127bf3f6503adf7972cf9b656f5d19d814678ec14690719b8050fe",
+      "path": "app/Artists/es/rosalia/Images/MOTOMAMI.webp"
+    },
+    {
+      "bytes": 118614,
+      "content_id": "sha256:c9b9d79160788b3dff2837a777d9c3406a178bbc723f83c3d1e322cae4520bcc",
+      "path": "app/Artists/es/rosalia/Images/MOTOMAMI_PLUS.png"
+    },
+    {
+      "bytes": 21701,
+      "content_id": "sha256:852cd9c4e76ca10ca1fb586a8c87f2eba34c775aae93a405d8147b00675de270",
+      "path": "app/Artists/es/rosalia/Images/RR.jpeg"
+    },
+    {
+      "bytes": 159540,
+      "content_id": "sha256:a20f4a1d9ac2cc2760ba2e7e957b0d2bd38a5115dd653fce656150a10eeeb3e9",
+      "path": "app/Artists/es/rosalia/Images/SINGLES.jpg"
+    },
+    {
+      "bytes": 3092,
+      "content_id": "sha256:d2c8dbb337672bf57babbfd98deb1095be93681ba12adc8f24c1f6d3c5ca7b83",
+      "path": "app/Artists/es/rosalia/albums.json"
+    },
+    {
+      "bytes": 5792924,
+      "content_id": "sha256:818ee6c141377b1b6e51bf0a7bfa49f0f85c759fd344c014fe561167b635a67d",
+      "path": "app/Artists/es/rosalia/examples.json"
+    },
+    {
+      "bytes": 9270162,
+      "content_id": "sha256:8c62900181450a44fb42357ceb687674b23446720630f4f6778785af3f6f7853",
+      "path": "app/Artists/es/rosalia/index.json"
+    },
+    {
+      "bytes": 185197,
+      "content_id": "sha256:62a19a284625580afbeb85cbee82457346bf16eb489a8b6ab80f6f798e908c40",
+      "path": "app/Artists/es/rosalia/songs.json"
+    },
+    {
+      "bytes": 4426596,
+      "content_id": "sha256:d36ca03cdba971f9036eaa7f26484d7cda8b172f817dc4da37ddec0c4f81e187",
+      "path": "app/Artists/es/rosalia/vocabulary_master.json"
+    },
+    {
+      "bytes": 11458277,
+      "content_id": "sha256:9bfc069c738e28a361b6ff3e1f9da3b16b80714ac5bb08ad9950f778b99c2e1d",
+      "path": "app/Artists/es/rosalia/wsd-evidence.json"
+    },
+    {
+      "bytes": 3205843,
+      "content_id": "sha256:7914cde76c5dda77768d6a7fea1030e9c05d5e5aca2a5452c20d1ce45140c8ea",
+      "path": "app/Artists/es/spanish-test-playlist/examples.json"
+    },
+    {
+      "bytes": 5653286,
+      "content_id": "sha256:f1ef5477ff212fced5b44946bdf0ec8c2d0cee8b1ecbea33162c0e56d0cd9776",
+      "path": "app/Artists/es/spanish-test-playlist/index.json"
+    },
+    {
+      "bytes": 84546,
+      "content_id": "sha256:64a59dc6164abd7fc2d3801f2881b91d1ccb5e56b40170464970d6c9249b4e4d",
+      "path": "app/Artists/es/spanish-test-playlist/songs.json"
+    },
+    {
+      "bytes": 2686677,
+      "content_id": "sha256:adc9863fd699d6e5a721c2c2b51bdbbe1972132fe0f7e8b04be52623009392f7",
+      "path": "app/Artists/es/spanish-test-playlist/vocabulary_master.json"
+    },
+    {
+      "bytes": 6751407,
+      "content_id": "sha256:593b5ffe0adfb573d98fb00058ea40413cfcf6c576b0cc26b6d0e77bcc866381",
+      "path": "app/Artists/es/spanish-test-playlist/wsd-evidence.json"
+    },
+    {
+      "bytes": 9905650,
+      "content_id": "sha256:afd835f7ca4a0645c453901c7ae7ec3e3559c44ce400d103437e3ac80aed9f0e",
+      "path": "app/Artists/es/young-miko/examples.json"
+    },
+    {
+      "bytes": 12770362,
+      "content_id": "sha256:34d701bf4aabdaffea9bd1aec0f7ece38b507ecffde0021d7fe291f963fff793",
+      "path": "app/Artists/es/young-miko/index.json"
+    },
+    {
+      "bytes": 287955,
+      "content_id": "sha256:6ace9abb61b0a4b9299f351c1eb881031edf769436a4d38155474391414b67e1",
+      "path": "app/Artists/es/young-miko/songs.json"
+    },
+    {
+      "bytes": 6165920,
+      "content_id": "sha256:9c1f1a34e3ca843b6e0140762c37dc5a5d8b3083d2e1dbc5b04236bc3550df64",
+      "path": "app/Artists/es/young-miko/vocabulary_master.json"
+    },
+    {
+      "bytes": 16736805,
+      "content_id": "sha256:6a502c99623a3f17e58778f47f6ad907799891776d4a99305a0c00fa7c9031c9",
+      "path": "app/Artists/es/young-miko/wsd-evidence.json"
+    },
+    {
+      "bytes": 19388,
+      "content_id": "sha256:66319a59f07f9c4a66ce02e8bb14b39fd1c1602e08554c4fb89b5d19addd2241",
+      "path": "app/Artists/spotify_tracks.json"
+    },
+    {
+      "bytes": 4418,
+      "content_id": "sha256:8c79ac72804dfd5e2ac4cd989bb86261873407bcabe60e9fa263b36ab05ae2b4",
+      "path": "app/config/artists.json"
+    }
+  ],
+  "languages": [
+    "es"
+  ],
+  "manifest_version": "lyrics-release-manifest/v1",
+  "mode": "lyrics",
+  "publication_status": "production_release",
+  "release_id": "lyrics-all-artists-v20",
+  "supported_specificity_status": "not_recorded_in_materialized_sources"
+}

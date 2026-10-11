@@ -1,0 +1,105 @@
+{
+  "artist_count": 1,
+  "assignment_status": "forced_leaf_assignments_preserved_in_dual_view_contract",
+  "card_count": 10687,
+  "catalog_content_id": "sha256:6303e40b5345c7236fd72b3955de6b19be363bf0980563e359f91b0abfff8693",
+  "catalog_path": "app/config/artists.json",
+  "composition_content_id": "sha256:c30e083791cb4121aa8285ad790f8456d51ce834862f3cb4495283fd3bd202c2",
+  "composition_path": "composition.json",
+  "created_at": "2026-09-27T16:02:04.652711+00:00",
+  "files": [
+    {
+      "bytes": 74157,
+      "content_id": "sha256:ca3e0d830d9857ce7113687b4c3f33cc0efd9f91513950273fbd2e6e2bd8fa9e",
+      "path": "app/Artists/es/bad-bunny/Images/DEBI_TIRAR_MAS_FOTOS.png"
+    },
+    {
+      "bytes": 236769,
+      "content_id": "sha256:cb047d4a7107fec161e371ec2bcf608b8a8f8df4540710ab863bfadb887c1537",
+      "path": "app/Artists/es/bad-bunny/Images/EL_ULTIMO_TOUR_DEL_MUNDO.png"
+    },
+    {
+      "bytes": 59678,
+      "content_id": "sha256:23aa5fdd3fd0463ec2cf6711fd28c8b469c90615afeeac966c509cd42d8c10e1",
+      "path": "app/Artists/es/bad-bunny/Images/LAS_QUE_NO_IBAN_A_SALIR.jpg"
+    },
+    {
+      "bytes": 19905,
+      "content_id": "sha256:2daff9e5ccc96bb7c8c7cfc0ece9653eeac6432f3bac4c7cdc4edb33d6f29f2b",
+      "path": "app/Artists/es/bad-bunny/Images/NADIE_SABE_LO_QUE_VA_A_PASAR_MANANA.png"
+    },
+    {
+      "bytes": 35212,
+      "content_id": "sha256:ac2620084498fd54e9e82ff848b7b07fc215ce6c4f1afb1e0f16eb124e9dcd98",
+      "path": "app/Artists/es/bad-bunny/Images/OASIS.png"
+    },
+    {
+      "bytes": 18797,
+      "content_id": "sha256:32d9edca50abea1695c6d5e69ebf19c30c6b879b627f54f4ee1453d90caa09d9",
+      "path": "app/Artists/es/bad-bunny/Images/SINGLES.jpg"
+    },
+    {
+      "bytes": 61635,
+      "content_id": "sha256:340fc6502e4ea0bac10ff15ee4059386957e56c15930ecef306372584f3a8cac",
+      "path": "app/Artists/es/bad-bunny/Images/UN_VERANO_SIN_TI.png"
+    },
+    {
+      "bytes": 12657,
+      "content_id": "sha256:35838fce1053cf3dce5e54ea5e74f0d9473cbb748ae74a55e6db572a200a8b31",
+      "path": "app/Artists/es/bad-bunny/Images/X100PRE.jpg"
+    },
+    {
+      "bytes": 218790,
+      "content_id": "sha256:27c830fbe1b1b4eae9ddeced7d7d2e7eca7f8c1ab16f317ad53eb62c35153a54",
+      "path": "app/Artists/es/bad-bunny/Images/YHLQMDLG.png"
+    },
+    {
+      "bytes": 8407,
+      "content_id": "sha256:e38a05c4dbb1a5e7b0b2f43b07983d6fbc78809bf6ffd1ae417c56b0e4b71327",
+      "path": "app/Artists/es/bad-bunny/albums.json"
+    },
+    {
+      "bytes": 25967727,
+      "content_id": "sha256:9dd90b929b91fb6f798d58c04862ef336df7cae177f01470535235c8dc5aea53",
+      "path": "app/Artists/es/bad-bunny/examples.json"
+    },
+    {
+      "bytes": 28716484,
+      "content_id": "sha256:d9756fe8df4bf89bea88a323e3f7e1c9ef874f4ab4f3ce803806db0b1c6f03a1",
+      "path": "app/Artists/es/bad-bunny/index.json"
+    },
+    {
+      "bytes": 1104128,
+      "content_id": "sha256:75d5ac5a022cfe928a59358beabe2cf83b989f993aa13c6849987e22550ec485",
+      "path": "app/Artists/es/bad-bunny/songs.json"
+    },
+    {
+      "bytes": 5877442,
+      "content_id": "sha256:16ed14b72493a065ca818b250d6151f37c329dfbceb0cb3a8cb19a25ac669d61",
+      "path": "app/Artists/es/bad-bunny/vocabulary_master.json"
+    },
+    {
+      "bytes": 28112260,
+      "content_id": "sha256:23436ae4e5360c93fa5694e357e7744a767c089ff64361df9f910075eca85228",
+      "path": "app/Artists/es/bad-bunny/wsd-evidence.json"
+    },
+    {
+      "bytes": 19388,
+      "content_id": "sha256:66319a59f07f9c4a66ce02e8bb14b39fd1c1602e08554c4fb89b5d19addd2241",
+      "path": "app/Artists/spotify_tracks.json"
+    },
+    {
+      "bytes": 1641,
+      "content_id": "sha256:6303e40b5345c7236fd72b3955de6b19be363bf0980563e359f91b0abfff8693",
+      "path": "app/config/artists.json"
+    }
+  ],
+  "languages": [
+    "es"
+  ],
+  "manifest_version": "lyrics-release-manifest/v1",
+  "mode": "lyrics",
+  "publication_status": "candidate_release",
+  "release_id": "lyrics-bad-bunny-v19",
+  "supported_specificity_status": "not_recorded_in_materialized_sources"
+}

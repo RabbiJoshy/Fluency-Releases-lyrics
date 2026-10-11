@@ -1,0 +1,55 @@
+{
+  "artist_count": 1,
+  "assignment_status": "lyrics_v20_margin_confidence",
+  "card_count": 1860,
+  "catalog_content_id": "sha256:17b00eb67de6eabf62dc1c9caac007acbc16abfe0c87f194ab04761c76e3b86e",
+  "catalog_path": "app/config/artists.json",
+  "composition_content_id": "sha256:87d1f679b7eee0fc6228414c9d9bddb31adb0d27ba5224d4ca150ea44e9f3d3d",
+  "composition_path": "composition.json",
+  "created_at": "2026-09-27T18:42:40.620402+00:00",
+  "files": [
+    {
+      "bytes": 3116452,
+      "content_id": "sha256:6ac42136304c05e59f7d2b6f5cee3552ac39e65cdf4169bc5477d349e9e3c8a7",
+      "path": "app/Artists/es/spanish-test-playlist/examples.json"
+    },
+    {
+      "bytes": 5639259,
+      "content_id": "sha256:aa0791b595e6b44d574f29a2f50b7792567002571c80fbe33e2b4765af638902",
+      "path": "app/Artists/es/spanish-test-playlist/index.json"
+    },
+    {
+      "bytes": 84546,
+      "content_id": "sha256:64a59dc6164abd7fc2d3801f2881b91d1ccb5e56b40170464970d6c9249b4e4d",
+      "path": "app/Artists/es/spanish-test-playlist/songs.json"
+    },
+    {
+      "bytes": 2513839,
+      "content_id": "sha256:d28da8fcef3957ee4d8a65cb366e7fb08555064bbfb1c64d3046effe8a665840",
+      "path": "app/Artists/es/spanish-test-playlist/vocabulary_master.json"
+    },
+    {
+      "bytes": 5274297,
+      "content_id": "sha256:76f0274257602868e6566bf40e30bd0b2495daaf14bb6340061897c0ca6f99cf",
+      "path": "app/Artists/es/spanish-test-playlist/wsd-evidence.json"
+    },
+    {
+      "bytes": 19388,
+      "content_id": "sha256:66319a59f07f9c4a66ce02e8bb14b39fd1c1602e08554c4fb89b5d19addd2241",
+      "path": "app/Artists/spotify_tracks.json"
+    },
+    {
+      "bytes": 779,
+      "content_id": "sha256:17b00eb67de6eabf62dc1c9caac007acbc16abfe0c87f194ab04761c76e3b86e",
+      "path": "app/config/artists.json"
+    }
+  ],
+  "languages": [
+    "es"
+  ],
+  "manifest_version": "lyrics-release-manifest/v1",
+  "mode": "lyrics",
+  "publication_status": "candidate_release",
+  "release_id": "lyrics-test-playlist-v20",
+  "supported_specificity_status": "not_recorded_in_materialized_sources"
+}
