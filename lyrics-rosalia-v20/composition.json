@@ -1,0 +1,41 @@
+{
+  "artists": [
+    {
+      "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
+      "card_count": 3224,
+      "example_card_count": 3224,
+      "examples_content_id": "sha256:f8d930256b8846fb7b6b655785b9c3df8d713a5acdad9218692d3a491fd68c47",
+      "index_content_id": "sha256:9546ab9e22811a5f5852c969b04d7a40b816339d276c1ed81ebfdae581549e14",
+      "language": "es",
+      "master_content_id": "sha256:0c1de32949156bc90b793a2a2663282ab174189a03d96245ee46de7f2d4baf63",
+      "migration_status": "lyrics_v20_shared_resolver_rebuild",
+      "name": "Rosalía",
+      "slug": "rosalia",
+      "song_count": 107,
+      "source_id": "wsd_v20_plant_rosalia",
+      "wsd_evidence_content_id": "sha256:fcb4ba34b64c16f31c63e7b693856041b9aef4578f8e1f04e36f6aff5dd7c1ac"
+    }
+  ],
+  "composition_version": "lyrics-release-composition/v1",
+  "conflict_policy": "error",
+  "created_at": "2026-09-27T18:42:40.702742+00:00",
+  "fallback_policy": "none",
+  "layers": {
+    "artist:rosalia": {
+      "artifact_ids": {
+        "examples": "sha256:f8d930256b8846fb7b6b655785b9c3df8d713a5acdad9218692d3a491fd68c47",
+        "index": "sha256:9546ab9e22811a5f5852c969b04d7a40b816339d276c1ed81ebfdae581549e14",
+        "master": "sha256:0c1de32949156bc90b793a2a2663282ab174189a03d96245ee46de7f2d4baf63",
+        "wsd_evidence": "sha256:fcb4ba34b64c16f31c63e7b693856041b9aef4578f8e1f04e36f6aff5dd7c1ac"
+      },
+      "requires": {},
+      "source_id": "wsd_v20_plant_rosalia",
+      "source_type": "lyrics_v20_plant"
+    }
+  },
+  "mode": "lyrics",
+  "omitted_layers": [],
+  "publication_status": "candidate_release",
+  "release_id": "lyrics-rosalia-v20",
+  "wsd_profile": "es-lyrics-v20-1"
+}

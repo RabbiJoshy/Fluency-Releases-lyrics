@@ -1,0 +1,41 @@
+{
+  "artists": [
+    {
+      "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
+      "card_count": 1860,
+      "example_card_count": 1860,
+      "examples_content_id": "sha256:6ac42136304c05e59f7d2b6f5cee3552ac39e65cdf4169bc5477d349e9e3c8a7",
+      "index_content_id": "sha256:aa0791b595e6b44d574f29a2f50b7792567002571c80fbe33e2b4765af638902",
+      "language": "es",
+      "master_content_id": "sha256:d28da8fcef3957ee4d8a65cb366e7fb08555064bbfb1c64d3046effe8a665840",
+      "migration_status": "lyrics_v20_shared_resolver_rebuild",
+      "name": "Joshua's Test Playlist",
+      "slug": "spanish-test-playlist",
+      "song_count": 31,
+      "source_id": "wsd_v20_plant_spanish-test-playlist",
+      "wsd_evidence_content_id": "sha256:76f0274257602868e6566bf40e30bd0b2495daaf14bb6340061897c0ca6f99cf"
+    }
+  ],
+  "composition_version": "lyrics-release-composition/v1",
+  "conflict_policy": "error",
+  "created_at": "2026-09-27T18:42:40.620402+00:00",
+  "fallback_policy": "none",
+  "layers": {
+    "artist:spanish-test-playlist": {
+      "artifact_ids": {
+        "examples": "sha256:6ac42136304c05e59f7d2b6f5cee3552ac39e65cdf4169bc5477d349e9e3c8a7",
+        "index": "sha256:aa0791b595e6b44d574f29a2f50b7792567002571c80fbe33e2b4765af638902",
+        "master": "sha256:d28da8fcef3957ee4d8a65cb366e7fb08555064bbfb1c64d3046effe8a665840",
+        "wsd_evidence": "sha256:76f0274257602868e6566bf40e30bd0b2495daaf14bb6340061897c0ca6f99cf"
+      },
+      "requires": {},
+      "source_id": "wsd_v20_plant_spanish-test-playlist",
+      "source_type": "lyrics_v20_plant"
+    }
+  },
+  "mode": "lyrics",
+  "omitted_layers": [],
+  "publication_status": "candidate_release",
+  "release_id": "lyrics-test-playlist-v20",
+  "wsd_profile": "es-lyrics-v20-1"
+}

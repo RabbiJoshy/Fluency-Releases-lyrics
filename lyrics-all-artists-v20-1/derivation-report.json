@@ -1,0 +1,9874 @@
+{
+ "bad-bunny": [
+  {
+   "word": "es",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "he/she is"
+   ]
+  },
+  {
+   "word": "eres",
+   "before": [
+    "to be",
+    "to root for",
+    "being",
+    "person"
+   ],
+   "after": [
+    "you are",
+    "you root for",
+    "being",
+    "person"
+   ]
+  },
+  {
+   "word": "vamos",
+   "before": [
+    "let's go",
+    "go",
+    "to go",
+    "to be"
+   ],
+   "after": [
+    "let's go",
+    "go",
+    "we go",
+    "we are"
+   ]
+  },
+  {
+   "word": "quieres",
+   "before": [
+    "to want",
+    "to love",
+    "to like",
+    "to mean",
+    "to try"
+   ],
+   "after": [
+    "you want",
+    "you love",
+    "you like",
+    "you mean",
+    "you try"
+   ]
+  },
+  {
+   "word": "estás",
+   "before": [
+    "to be",
+    "to look",
+    "to be on",
+    "to be in"
+   ],
+   "after": [
+    "you are",
+    "you look",
+    "you are on",
+    "you are in"
+   ]
+  },
+  {
+   "word": "tienes",
+   "before": [
+    "to have",
+    "to be"
+   ],
+   "after": [
+    "you have",
+    "you are"
+   ]
+  },
+  {
+   "word": "vas",
+   "before": [
+    "to go",
+    "to be"
+   ],
+   "after": [
+    "you go",
+    "you are"
+   ]
+  },
+  {
+   "word": "sabes",
+   "before": [
+    "to know",
+    "to hear"
+   ],
+   "after": [
+    "you know",
+    "you hear"
+   ]
+  },
+  {
+   "word": "estamos",
+   "before": [
+    "to be",
+    "to be on",
+    "to be in"
+   ],
+   "after": [
+    "we are",
+    "we are on",
+    "we are in"
+   ]
+  },
+  {
+   "word": "somos",
+   "before": [
+    "to be",
+    "to root for",
+    "being"
+   ],
+   "after": [
+    "we are",
+    "we root for",
+    "being"
+   ]
+  },
+  {
+   "word": "ves",
+   "before": [
+    "to see",
+    "to look at",
+    "to check"
+   ],
+   "after": [
+    "you see",
+    "you look at",
+    "you check"
+   ]
+  },
+  {
+   "word": "tenemos",
+   "before": [
+    "to have",
+    "to have got",
+    "to have on",
+    "to be",
+    "to take"
+   ],
+   "after": [
+    "we have",
+    "we have got",
+    "we have on",
+    "we are",
+    "we take"
+   ]
+  },
+  {
+   "word": "llamas",
+   "before": [
+    "to call"
+   ],
+   "after": [
+    "you call"
+   ]
+  },
+  {
+   "word": "hagas",
+   "before": [
+    "to do",
+    "to act"
+   ],
+   "after": [
+    "you do",
+    "you act"
+   ]
+  },
+  {
+   "word": "quieras",
+   "before": [
+    "to want",
+    "to love",
+    "to mean"
+   ],
+   "after": [
+    "you want",
+    "you love",
+    "you mean"
+   ]
+  },
+  {
+   "word": "haces",
+   "before": [
+    "to do",
+    "to make",
+    "to think",
+    "to make look",
+    "to act"
+   ],
+   "after": [
+    "you do",
+    "you make",
+    "you think",
+    "you make look",
+    "you act"
+   ]
+  },
+  {
+   "word": "hacemos",
+   "before": [
+    "to do",
+    "to make",
+    "to act"
+   ],
+   "after": [
+    "we do",
+    "we make",
+    "we act"
+   ]
+  },
+  {
+   "word": "has",
+   "before": [
+    "to have",
+    "should"
+   ],
+   "after": [
+    "you have",
+    "you should"
+   ]
+  },
+  {
+   "word": "dices",
+   "before": [
+    "to say",
+    "to tell",
+    "to believe"
+   ],
+   "after": [
+    "you say",
+    "you tell",
+    "you believe"
+   ]
+  },
+  {
+   "word": "ganas",
+   "before": [
+    "desire",
+    "to win",
+    "to capture"
+   ],
+   "after": [
+    "desire",
+    "you win",
+    "you capture"
+   ]
+  },
+  {
+   "word": "digas",
+   "before": [
+    "to say",
+    "to tell"
+   ],
+   "after": [
+    "you say",
+    "you tell"
+   ]
+  },
+  {
+   "word": "puedes",
+   "before": [
+    "can"
+   ],
+   "after": [
+    "you can"
+   ]
+  },
+  {
+   "word": "prendas",
+   "before": [
+    "garments",
+    "item of clothing",
+    "article of clothing",
+    "piece of clothing",
+    "to capture"
+   ],
+   "after": [
+    "garments",
+    "item of clothing",
+    "article of clothing",
+    "piece of clothing",
+    "you capture"
+   ]
+  },
+  {
+   "word": "vayas",
+   "before": [
+    "to go",
+    "to be"
+   ],
+   "after": [
+    "you go",
+    "you are"
+   ]
+  },
+  {
+   "word": "hicimos",
+   "before": [
+    "to do",
+    "to make",
+    "to think",
+    "to make look",
+    "to act"
+   ],
+   "after": [
+    "we did",
+    "we made",
+    "we thought",
+    "we made look",
+    "we acted"
+   ]
+  },
+  {
+   "word": "mueves",
+   "before": [
+    "to move",
+    "to shake"
+   ],
+   "after": [
+    "you move",
+    "you shake"
+   ]
+  },
+  {
+   "word": "conoces",
+   "before": [
+    "to know"
+   ],
+   "after": [
+    "you know"
+   ]
+  },
+  {
+   "word": "das",
+   "before": [
+    "to give"
+   ],
+   "after": [
+    "you give"
+   ]
+  },
+  {
+   "word": "crees",
+   "before": [
+    "to believe",
+    "to think"
+   ],
+   "after": [
+    "you believe",
+    "you think"
+   ]
+  },
+  {
+   "word": "andamos",
+   "before": [
+    "to walk",
+    "to ride",
+    "to take",
+    "to work",
+    "to go",
+    "to be"
+   ],
+   "after": [
+    "we walk",
+    "we ride",
+    "we take",
+    "we work",
+    "we go",
+    "we are"
+   ]
+  },
+  {
+   "word": "andas",
+   "before": [
+    "to walk",
+    "to ride",
+    "to take",
+    "to work",
+    "to be"
+   ],
+   "after": [
+    "you walk",
+    "you ride",
+    "you take",
+    "you work",
+    "you are"
+   ]
+  },
+  {
+   "word": "seas",
+   "before": [
+    "to be",
+    "to root for"
+   ],
+   "after": [
+    "you are",
+    "you root for"
+   ]
+  },
+  {
+   "word": "damos",
+   "before": [
+    "to give",
+    "to produce",
+    "to bear"
+   ],
+   "after": [
+    "we give",
+    "we produce",
+    "we bear"
+   ]
+  },
+  {
+   "word": "eras",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you were"
+   ]
+  },
+  {
+   "word": "llames",
+   "before": [
+    "to call"
+   ],
+   "after": [
+    "you call"
+   ]
+  },
+  {
+   "word": "vienes",
+   "before": [
+    "to come"
+   ],
+   "after": [
+    "you come"
+   ]
+  },
+  {
+   "word": "sigues",
+   "before": [
+    "to follow",
+    "to go on",
+    "to still be in"
+   ],
+   "after": [
+    "you follow",
+    "you go on",
+    "you still be in"
+   ]
+  },
+  {
+   "word": "salimos",
+   "before": [
+    "to go out",
+    "to leave",
+    "to come out"
+   ],
+   "after": [
+    "we go out",
+    "we leave",
+    "we come out"
+   ]
+  },
+  {
+   "word": "fuimos",
+   "before": [
+    "we went"
+   ],
+   "after": [
+    "we wed went"
+   ]
+  },
+  {
+   "word": "tetas",
+   "before": [
+    "to breastfeed",
+    "boobs",
+    "tits",
+    "breasts"
+   ],
+   "after": [
+    "you breastfeed",
+    "boobs",
+    "tits",
+    "breasts"
+   ]
+  },
+  {
+   "word": "prendías",
+   "before": [
+    "to light",
+    "to turn on",
+    "to switch on"
+   ],
+   "after": [
+    "you lighted",
+    "you turned on",
+    "you switched on"
+   ]
+  },
+  {
+   "word": "chingamos",
+   "before": [
+    "to fuck with",
+    "to fuck",
+    "to knock back"
+   ],
+   "after": [
+    "we fuck with",
+    "we fuck",
+    "we knock back"
+   ]
+  },
+  {
+   "word": "estés",
+   "before": [
+    "to be",
+    "to be on"
+   ],
+   "after": [
+    "you are",
+    "you are on"
+   ]
+  },
+  {
+   "word": "llegamos",
+   "before": [
+    "to arrive",
+    "to get there",
+    "to be here",
+    "to be there"
+   ],
+   "after": [
+    "we arrive",
+    "we get there",
+    "we are here",
+    "we are there"
+   ]
+  },
+  {
+   "word": "vemos",
+   "before": [
+    "to see",
+    "to watch",
+    "to check"
+   ],
+   "after": [
+    "we see",
+    "we watch",
+    "we check"
+   ]
+  },
+  {
+   "word": "sientes",
+   "before": [
+    "to feel"
+   ],
+   "after": [
+    "you feel"
+   ]
+  },
+  {
+   "word": "dejamos",
+   "before": [
+    "to leave",
+    "to drop",
+    "to let"
+   ],
+   "after": [
+    "we leave",
+    "we drop",
+    "we let"
+   ]
+  },
+  {
+   "word": "hables",
+   "before": [
+    "to talk",
+    "to say"
+   ],
+   "after": [
+    "you talk",
+    "you say"
+   ]
+  },
+  {
+   "word": "pones",
+   "before": [
+    "to put",
+    "to put on",
+    "to give"
+   ],
+   "after": [
+    "you put",
+    "you put on",
+    "you give"
+   ]
+  },
+  {
+   "word": "iguales",
+   "before": [
+    "equal",
+    "the same",
+    "like",
+    "to equalise"
+   ],
+   "after": [
+    "equal",
+    "the same",
+    "like",
+    "you equalise"
+   ]
+  },
+  {
+   "word": "sales",
+   "before": [
+    "to go out",
+    "to leave",
+    "to ruin"
+   ],
+   "after": [
+    "you go out",
+    "you leave",
+    "you ruin"
+   ]
+  },
+  {
+   "word": "pares",
+   "before": [
+    "pairs",
+    "pars",
+    "to stop",
+    "to block"
+   ],
+   "after": [
+    "pairs",
+    "pars",
+    "you stop",
+    "you block"
+   ]
+  },
+  {
+   "word": "subimos",
+   "before": [
+    "to go up",
+    "to come up",
+    "to turn up"
+   ],
+   "after": [
+    "we go up",
+    "we come up",
+    "we turn up"
+   ]
+  },
+  {
+   "word": "piensas",
+   "before": [
+    "to think"
+   ],
+   "after": [
+    "you think"
+   ]
+  },
+  {
+   "word": "tengas",
+   "before": [
+    "to have",
+    "to be"
+   ],
+   "after": [
+    "you have",
+    "you are"
+   ]
+  },
+  {
+   "word": "hablas",
+   "before": [
+    "to talk",
+    "to say"
+   ],
+   "after": [
+    "you talk",
+    "you say"
+   ]
+  },
+  {
+   "word": "dejas",
+   "before": [
+    "to leave",
+    "to let"
+   ],
+   "after": [
+    "you leave",
+    "you let"
+   ]
+  },
+  {
+   "word": "miras",
+   "before": [
+    "to look at",
+    "to face"
+   ],
+   "after": [
+    "you look at",
+    "you face"
+   ]
+  },
+  {
+   "word": "vuelves",
+   "before": [
+    "to return",
+    "to come back",
+    "to turn"
+   ],
+   "after": [
+    "you return",
+    "you come back",
+    "you turn"
+   ]
+  },
+  {
+   "word": "temas",
+   "before": [
+    "to be obsessed with",
+    "to have a mania for",
+    "to hold a grudge against",
+    "to be afraid"
+   ],
+   "after": [
+    "you are obsessed with",
+    "you have a mania for",
+    "you hold a grudge against",
+    "you are afraid"
+   ]
+  },
+  {
+   "word": "busques",
+   "before": [
+    "to look for",
+    "to look up",
+    "to pick"
+   ],
+   "after": [
+    "you look for",
+    "you look up",
+    "you pick"
+   ]
+  },
+  {
+   "word": "mejores",
+   "before": [
+    "better",
+    "best",
+    "to improve; get better; get well",
+    "to enhance"
+   ],
+   "after": [
+    "better",
+    "best",
+    "you improve; you get better; you get well",
+    "you enhance"
+   ]
+  },
+  {
+   "word": "querías",
+   "before": [
+    "to want",
+    "to love",
+    "to mean"
+   ],
+   "after": [
+    "you wanted",
+    "you loved",
+    "you meaned"
+   ]
+  },
+  {
+   "word": "luces",
+   "before": [
+    "to shine",
+    "to look"
+   ],
+   "after": [
+    "you shine",
+    "you look"
+   ]
+  },
+  {
+   "word": "extrañas",
+   "before": [
+    "to miss"
+   ],
+   "after": [
+    "you miss"
+   ]
+  },
+  {
+   "word": "terminamos",
+   "before": [
+    "to finish",
+    "to end up"
+   ],
+   "after": [
+    "we finish",
+    "we end up"
+   ]
+  },
+  {
+   "word": "atreves",
+   "before": [
+    "to dare"
+   ],
+   "after": [
+    "you dare"
+   ]
+  },
+  {
+   "word": "pasas",
+   "before": [
+    "to pass",
+    "to happen",
+    "to cross",
+    "to go through",
+    "to spend"
+   ],
+   "after": [
+    "you pass",
+    "you happen",
+    "you cross",
+    "you go through",
+    "you spend"
+   ]
+  },
+  {
+   "word": "hablamos",
+   "before": [
+    "to talk"
+   ],
+   "after": [
+    "we talk"
+   ]
+  },
+  {
+   "word": "buscas",
+   "before": [
+    "you look for",
+    "you're looking for"
+   ],
+   "after": [
+    "you you look for",
+    "you you're looking for"
+   ]
+  },
+  {
+   "word": "gustas",
+   "before": [
+    "to like"
+   ],
+   "after": [
+    "you like"
+   ]
+  },
+  {
+   "word": "amas",
+   "before": [
+    "to love"
+   ],
+   "after": [
+    "you love"
+   ]
+  },
+  {
+   "word": "casas",
+   "before": [
+    "to marry",
+    "houses",
+    "homes"
+   ],
+   "after": [
+    "you marry",
+    "houses",
+    "homes"
+   ]
+  },
+  {
+   "word": "esperas",
+   "before": [
+    "to wait for",
+    "to expect"
+   ],
+   "after": [
+    "you wait for",
+    "you expect"
+   ]
+  },
+  {
+   "word": "sueltas",
+   "before": [
+    "to loosen",
+    "to set free"
+   ],
+   "after": [
+    "you loosen",
+    "you set free"
+   ]
+  },
+  {
+   "word": "peines",
+   "before": [
+    "to comb"
+   ],
+   "after": [
+    "you comb"
+   ]
+  },
+  {
+   "word": "hemos",
+   "before": [
+    "to have"
+   ],
+   "after": [
+    "we have"
+   ]
+  },
+  {
+   "word": "unas",
+   "before": [
+    "to join",
+    "to combine",
+    "to mix"
+   ],
+   "after": [
+    "you join",
+    "you combine",
+    "you mix"
+   ]
+  },
+  {
+   "word": "entiendes",
+   "before": [
+    "to understand"
+   ],
+   "after": [
+    "you understand"
+   ]
+  },
+  {
+   "word": "tenías",
+   "before": [
+    "to have",
+    "to be"
+   ],
+   "after": [
+    "you had",
+    "you were"
+   ]
+  },
+  {
+   "word": "quedas",
+   "before": [
+    "to have",
+    "to be"
+   ],
+   "after": [
+    "you have",
+    "you are"
+   ]
+  },
+  {
+   "word": "seguimos",
+   "before": [
+    "to follow",
+    "to carry on",
+    "to go on",
+    "to still be in"
+   ],
+   "after": [
+    "we follow",
+    "we carry on",
+    "we go on",
+    "we still be in"
+   ]
+  },
+  {
+   "word": "pasamos",
+   "before": [
+    "to pass",
+    "to cross",
+    "to spend"
+   ],
+   "after": [
+    "we pass",
+    "we cross",
+    "we spend"
+   ]
+  },
+  {
+   "word": "veas",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "you see"
+   ]
+  },
+  {
+   "word": "vengas",
+   "before": [
+    "to come"
+   ],
+   "after": [
+    "you come"
+   ]
+  },
+  {
+   "word": "vivimos",
+   "before": [
+    "to live",
+    "lifestyle"
+   ],
+   "after": [
+    "we live",
+    "lifestyle"
+   ]
+  },
+  {
+   "word": "enamores",
+   "before": [
+    "to make ... fall in love",
+    "to fall in love"
+   ],
+   "after": [
+    "you make ... fall in love",
+    "you fall in love"
+   ]
+  },
+  {
+   "word": "decías",
+   "before": [
+    "to say",
+    "to tell"
+   ],
+   "after": [
+    "you said",
+    "you told"
+   ]
+  },
+  {
+   "word": "posiciones",
+   "before": [
+    "to position",
+    "positions"
+   ],
+   "after": [
+    "you position",
+    "positions"
+   ]
+  },
+  {
+   "word": "libras",
+   "before": [
+    "to free",
+    "to forbid",
+    "to deliver"
+   ],
+   "after": [
+    "you free",
+    "you forbid",
+    "you deliver"
+   ]
+  },
+  {
+   "word": "niegues",
+   "before": [
+    "to deny"
+   ],
+   "after": [
+    "you deny"
+   ]
+  },
+  {
+   "word": "bajes",
+   "before": [
+    "to come down",
+    "to drop"
+   ],
+   "after": [
+    "you come down",
+    "you drop"
+   ]
+  },
+  {
+   "word": "necesitas",
+   "before": [
+    "to need"
+   ],
+   "after": [
+    "you need"
+   ]
+  },
+  {
+   "word": "vives",
+   "before": [
+    "to live",
+    "lifestyle"
+   ],
+   "after": [
+    "you live",
+    "lifestyle"
+   ]
+  },
+  {
+   "word": "fumamos",
+   "before": [
+    "to smoke"
+   ],
+   "after": [
+    "we smoke"
+   ]
+  },
+  {
+   "word": "olvides",
+   "before": [
+    "to forget"
+   ],
+   "after": [
+    "you forget"
+   ]
+  },
+  {
+   "word": "llegas",
+   "before": [
+    "to arrive",
+    "to get",
+    "to be here"
+   ],
+   "after": [
+    "you arrive",
+    "you get",
+    "you are here"
+   ]
+  },
+  {
+   "word": "des",
+   "before": [
+    "to give",
+    "to produce",
+    "to bear"
+   ],
+   "after": [
+    "you give",
+    "you produce",
+    "you bear"
+   ]
+  },
+  {
+   "word": "razones",
+   "before": [
+    "to reason",
+    "reasons"
+   ],
+   "after": [
+    "you reason",
+    "reasons"
+   ]
+  },
+  {
+   "word": "creas",
+   "before": [
+    "to believe",
+    "to think"
+   ],
+   "after": [
+    "you believe",
+    "you think"
+   ]
+  },
+  {
+   "word": "besas",
+   "before": [
+    "to kiss"
+   ],
+   "after": [
+    "you kiss"
+   ]
+  },
+  {
+   "word": "matas",
+   "before": [
+    "to kill"
+   ],
+   "after": [
+    "you kill"
+   ]
+  },
+  {
+   "word": "mereces",
+   "before": [
+    "to deserve"
+   ],
+   "after": [
+    "you deserve"
+   ]
+  },
+  {
+   "word": "matamos",
+   "before": [
+    "to kill"
+   ],
+   "after": [
+    "we kill"
+   ]
+  },
+  {
+   "word": "dimos",
+   "before": [
+    "we gave"
+   ],
+   "after": [
+    "we wed gave"
+   ]
+  },
+  {
+   "word": "metes",
+   "before": [
+    "to put",
+    "to fit",
+    "to get",
+    "to bring into"
+   ],
+   "after": [
+    "you put",
+    "you fit",
+    "you get",
+    "you bring into"
+   ]
+  },
+  {
+   "word": "pides",
+   "before": [
+    "to ask"
+   ],
+   "after": [
+    "you ask"
+   ]
+  },
+  {
+   "word": "hacíamos",
+   "before": [
+    "to do",
+    "to make",
+    "to act"
+   ],
+   "after": [
+    "we did",
+    "we made",
+    "we acted"
+   ]
+  },
+  {
+   "word": "sientas",
+   "before": [
+    "to feel"
+   ],
+   "after": [
+    "you feel"
+   ]
+  },
+  {
+   "word": "peleas",
+   "before": [
+    "to fight",
+    "fights"
+   ],
+   "after": [
+    "you fight",
+    "fights"
+   ]
+  },
+  {
+   "word": "cortas",
+   "before": [
+    "to cut",
+    "prunings",
+    "butts"
+   ],
+   "after": [
+    "you cut",
+    "prunings",
+    "butts"
+   ]
+  },
+  {
+   "word": "bajamos",
+   "before": [
+    "to go down",
+    "to come down",
+    "to drop"
+   ],
+   "after": [
+    "we go down",
+    "we come down",
+    "we drop"
+   ]
+  },
+  {
+   "word": "prendemos",
+   "before": [
+    "to light",
+    "to turn on"
+   ],
+   "after": [
+    "we light",
+    "we turn on"
+   ]
+  },
+  {
+   "word": "chingas",
+   "before": [
+    "to fuck with",
+    "to fuck"
+   ],
+   "after": [
+    "you fuck with",
+    "you fuck"
+   ]
+  },
+  {
+   "word": "podemos",
+   "before": [
+    "can"
+   ],
+   "after": [
+    "we can"
+   ]
+  },
+  {
+   "word": "mamas",
+   "before": [
+    "to feed",
+    "to suck"
+   ],
+   "after": [
+    "you feed",
+    "you suck"
+   ]
+  },
+  {
+   "word": "debes",
+   "before": [
+    "to owe",
+    "should"
+   ],
+   "after": [
+    "you owe",
+    "you should"
+   ]
+  },
+  {
+   "word": "puedas",
+   "before": [
+    "can"
+   ],
+   "after": [
+    "you can"
+   ]
+  },
+  {
+   "word": "serás",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you will be"
+   ]
+  },
+  {
+   "word": "acuerdas",
+   "before": [
+    "to remind"
+   ],
+   "after": [
+    "you remind"
+   ]
+  },
+  {
+   "word": "sepas",
+   "before": [
+    "to know",
+    "to know how"
+   ],
+   "after": [
+    "you know",
+    "you know how"
+   ]
+  },
+  {
+   "word": "vuelvas",
+   "before": [
+    "to come back"
+   ],
+   "after": [
+    "you come back"
+   ]
+  },
+  {
+   "word": "quedamos",
+   "before": [
+    "to be left",
+    "to be"
+   ],
+   "after": [
+    "we are left",
+    "we are"
+   ]
+  },
+  {
+   "word": "pienses",
+   "before": [
+    "to think"
+   ],
+   "after": [
+    "you think"
+   ]
+  },
+  {
+   "word": "empezamos",
+   "before": [
+    "to start"
+   ],
+   "after": [
+    "we start"
+   ]
+  },
+  {
+   "word": "volvemos",
+   "before": [
+    "to return",
+    "to come back",
+    "to go back"
+   ],
+   "after": [
+    "we return",
+    "we come back",
+    "we go back"
+   ]
+  },
+  {
+   "word": "quedes",
+   "before": [
+    "to remain",
+    "to be left over",
+    "to be"
+   ],
+   "after": [
+    "you remain",
+    "you are left over",
+    "you are"
+   ]
+  },
+  {
+   "word": "niveles",
+   "before": [
+    "to level"
+   ],
+   "after": [
+    "you level"
+   ]
+  },
+  {
+   "word": "caes",
+   "before": [
+    "to fall",
+    "to drop"
+   ],
+   "after": [
+    "you fall",
+    "you drop"
+   ]
+  },
+  {
+   "word": "tocas",
+   "before": [
+    "to touch"
+   ],
+   "after": [
+    "you touch"
+   ]
+  },
+  {
+   "word": "fueras",
+   "before": [
+    "to be",
+    "to be",
+    "to root for"
+   ],
+   "after": [
+    "you were",
+    "you were",
+    "you rooted for"
+   ]
+  },
+  {
+   "word": "trates",
+   "before": [
+    "to treat"
+   ],
+   "after": [
+    "you treat"
+   ]
+  },
+  {
+   "word": "mojas",
+   "before": [
+    "to get wet",
+    "to wet"
+   ],
+   "after": [
+    "you get wet",
+    "you wet"
+   ]
+  },
+  {
+   "word": "mojás",
+   "before": [
+    "to wet"
+   ],
+   "after": [
+    "you wet"
+   ]
+  },
+  {
+   "word": "peleamos",
+   "before": [
+    "to fight"
+   ],
+   "after": [
+    "we fight"
+   ]
+  },
+  {
+   "word": "quitas",
+   "before": [
+    "to remove",
+    "to take away",
+    "to take"
+   ],
+   "after": [
+    "you remove",
+    "you take away",
+    "you take"
+   ]
+  },
+  {
+   "word": "arreglamos",
+   "before": [
+    "to fix"
+   ],
+   "after": [
+    "we fix"
+   ]
+  },
+  {
+   "word": "echamos",
+   "before": [
+    "to throw",
+    "to put"
+   ],
+   "after": [
+    "we throw",
+    "we put"
+   ]
+  },
+  {
+   "word": "pidas",
+   "before": [
+    "to ask for",
+    "to ask"
+   ],
+   "after": [
+    "you ask for",
+    "you ask"
+   ]
+  },
+  {
+   "word": "cierres",
+   "before": [
+    "to close",
+    "to shut"
+   ],
+   "after": [
+    "you close",
+    "you shut"
+   ]
+  },
+  {
+   "word": "ronques",
+   "before": [
+    "to snore",
+    "to be bossy"
+   ],
+   "after": [
+    "you snore",
+    "you are bossy"
+   ]
+  },
+  {
+   "word": "venías",
+   "before": [
+    "to come",
+    "to come back"
+   ],
+   "after": [
+    "you came",
+    "you came back"
+   ]
+  },
+  {
+   "word": "estabas",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you were"
+   ]
+  },
+  {
+   "word": "preocupes",
+   "before": [
+    "to worry"
+   ],
+   "after": [
+    "you worry"
+   ]
+  },
+  {
+   "word": "sabemos",
+   "before": [
+    "to know",
+    "to know how"
+   ],
+   "after": [
+    "we know",
+    "we know how"
+   ]
+  },
+  {
+   "word": "queremos",
+   "before": [
+    "to want",
+    "to love"
+   ],
+   "after": [
+    "we want",
+    "we love"
+   ]
+  },
+  {
+   "word": "pareces",
+   "before": [
+    "to look",
+    "to look like"
+   ],
+   "after": [
+    "you look",
+    "you look like"
+   ]
+  },
+  {
+   "word": "jodes",
+   "before": [
+    "to fuck",
+    "to fuck with",
+    "to piss off"
+   ],
+   "after": [
+    "you fuck",
+    "you fuck with",
+    "you piss off"
+   ]
+  },
+  {
+   "word": "éramos",
+   "before": [
+    "to be",
+    "person"
+   ],
+   "after": [
+    "we were",
+    "person"
+   ]
+  },
+  {
+   "word": "envías",
+   "before": [
+    "to send"
+   ],
+   "after": [
+    "you send"
+   ]
+  },
+  {
+   "word": "estemos",
+   "before": [
+    "to be",
+    "to be on"
+   ],
+   "after": [
+    "we are",
+    "we are on"
+   ]
+  },
+  {
+   "word": "besamos",
+   "before": [
+    "to kiss"
+   ],
+   "after": [
+    "we kiss"
+   ]
+  },
+  {
+   "word": "mandas",
+   "before": [
+    "to command",
+    "to send",
+    "to be in charge of"
+   ],
+   "after": [
+    "you command",
+    "you send",
+    "you are in charge of"
+   ]
+  },
+  {
+   "word": "pierdes",
+   "before": [
+    "to lose",
+    "to miss"
+   ],
+   "after": [
+    "you lose",
+    "you miss"
+   ]
+  },
+  {
+   "word": "apagás",
+   "before": [
+    "to switch off"
+   ],
+   "after": [
+    "you switch off"
+   ]
+  },
+  {
+   "word": "mueres",
+   "before": [
+    "to die"
+   ],
+   "after": [
+    "you die"
+   ]
+  },
+  {
+   "word": "compras",
+   "before": [
+    "shopping",
+    "buys",
+    "to buy"
+   ],
+   "after": [
+    "shopping",
+    "buys",
+    "you buy"
+   ]
+  },
+  {
+   "word": "pierdas",
+   "before": [
+    "to lose",
+    "to waste"
+   ],
+   "after": [
+    "you lose",
+    "you waste"
+   ]
+  },
+  {
+   "word": "avisas",
+   "before": [
+    "to let know",
+    "to notify"
+   ],
+   "after": [
+    "you let know",
+    "you notify"
+   ]
+  },
+  {
+   "word": "ponemos",
+   "before": [
+    "to put",
+    "to add"
+   ],
+   "after": [
+    "we put",
+    "we add"
+   ]
+  },
+  {
+   "word": "sacas",
+   "before": [
+    "to get out"
+   ],
+   "after": [
+    "you get out"
+   ]
+  },
+  {
+   "word": "escribes",
+   "before": [
+    "you write"
+   ],
+   "after": [
+    "you you write"
+   ]
+  },
+  {
+   "word": "bloqueás",
+   "before": [
+    "to block"
+   ],
+   "after": [
+    "you block"
+   ]
+  },
+  {
+   "word": "asustes",
+   "before": [
+    "to scare"
+   ],
+   "after": [
+    "you scare"
+   ]
+  },
+  {
+   "word": "bailamos",
+   "before": [
+    "to dance"
+   ],
+   "after": [
+    "we dance"
+   ]
+  },
+  {
+   "word": "quites",
+   "before": [
+    "to take"
+   ],
+   "after": [
+    "you take"
+   ]
+  },
+  {
+   "word": "prendes",
+   "before": [
+    "to light"
+   ],
+   "after": [
+    "you light"
+   ]
+  },
+  {
+   "word": "bailes",
+   "before": [
+    "to dance"
+   ],
+   "after": [
+    "you dance"
+   ]
+  },
+  {
+   "word": "velas",
+   "before": [
+    "to keep vigil over",
+    "to sit up with",
+    "to expose"
+   ],
+   "after": [
+    "you keep vigil over",
+    "you sit up with",
+    "you expose"
+   ]
+  },
+  {
+   "word": "roncas",
+   "before": [
+    "to snore"
+   ],
+   "after": [
+    "you snore"
+   ]
+  },
+  {
+   "word": "necesitamos",
+   "before": [
+    "to need"
+   ],
+   "after": [
+    "we need"
+   ]
+  },
+  {
+   "word": "dejes",
+   "before": [
+    "to leave"
+   ],
+   "after": [
+    "you leave"
+   ]
+  },
+  {
+   "word": "pruebes",
+   "before": [
+    "to try"
+   ],
+   "after": [
+    "you try"
+   ]
+  },
+  {
+   "word": "enseñes",
+   "before": [
+    "to teach"
+   ],
+   "after": [
+    "you teach"
+   ]
+  },
+  {
+   "word": "apenas",
+   "before": [
+    "only",
+    "to embarrass"
+   ],
+   "after": [
+    "only",
+    "you embarrass"
+   ]
+  },
+  {
+   "word": "bebemos",
+   "before": [
+    "to drink"
+   ],
+   "after": [
+    "we drink"
+   ]
+  },
+  {
+   "word": "llevas",
+   "before": [
+    "to take",
+    "to be"
+   ],
+   "after": [
+    "you take",
+    "you are"
+   ]
+  },
+  {
+   "word": "cuides",
+   "before": [
+    "to take care of"
+   ],
+   "after": [
+    "you take care of"
+   ]
+  },
+  {
+   "word": "robas",
+   "before": [
+    "to steal",
+    "to rob"
+   ],
+   "after": [
+    "you steal",
+    "you rob"
+   ]
+  },
+  {
+   "word": "conocemos",
+   "before": [
+    "to know"
+   ],
+   "after": [
+    "we know"
+   ]
+  },
+  {
+   "word": "mires",
+   "before": [
+    "to look at",
+    "to look"
+   ],
+   "after": [
+    "you look at",
+    "you look"
+   ]
+  },
+  {
+   "word": "cojas",
+   "before": [
+    "to take",
+    "to get"
+   ],
+   "after": [
+    "you take",
+    "you get"
+   ]
+  },
+  {
+   "word": "escuchas",
+   "before": [
+    "to hear",
+    "to listen"
+   ],
+   "after": [
+    "you hear",
+    "you listen"
+   ]
+  },
+  {
+   "word": "pruebas",
+   "before": [
+    "tests",
+    "to try"
+   ],
+   "after": [
+    "tests",
+    "you try"
+   ]
+  },
+  {
+   "word": "acuestes",
+   "before": [
+    "to put to bed"
+   ],
+   "after": [
+    "you put to bed"
+   ]
+  },
+  {
+   "word": "pongas",
+   "before": [
+    "to put"
+   ],
+   "after": [
+    "you put"
+   ]
+  },
+  {
+   "word": "guardás",
+   "before": [
+    "to save",
+    "to keep"
+   ],
+   "after": [
+    "you save",
+    "you keep"
+   ]
+  },
+  {
+   "word": "tratas",
+   "before": [
+    "to treat",
+    "to address"
+   ],
+   "after": [
+    "you treat",
+    "you address"
+   ]
+  },
+  {
+   "word": "pegas",
+   "before": [
+    "to hit",
+    "to stick"
+   ],
+   "after": [
+    "you hit",
+    "you stick"
+   ]
+  },
+  {
+   "word": "toques",
+   "before": [
+    "to touch"
+   ],
+   "after": [
+    "you touch"
+   ]
+  },
+  {
+   "word": "dejemos",
+   "before": [
+    "to let"
+   ],
+   "after": [
+    "we let"
+   ]
+  },
+  {
+   "word": "salgas",
+   "before": [
+    "to leave",
+    "to come out",
+    "to get out"
+   ],
+   "after": [
+    "you leave",
+    "you come out",
+    "you get out"
+   ]
+  },
+  {
+   "word": "callás",
+   "before": [
+    "to keep quiet",
+    "to shut up"
+   ],
+   "after": [
+    "you keep quiet",
+    "you shut up"
+   ]
+  },
+  {
+   "word": "juegas",
+   "before": [
+    "to play",
+    "to move"
+   ],
+   "after": [
+    "you play",
+    "you move"
+   ]
+  },
+  {
+   "word": "supieras",
+   "before": [
+    "to know",
+    "to know how"
+   ],
+   "after": [
+    "you knew",
+    "you knew how"
+   ]
+  },
+  {
+   "word": "notas",
+   "before": [
+    "to notice",
+    "to feel",
+    "to be noticeable"
+   ],
+   "after": [
+    "you notice",
+    "you feel",
+    "you are noticeable"
+   ]
+  },
+  {
+   "word": "olvidas",
+   "before": [
+    "to forget"
+   ],
+   "after": [
+    "you forget"
+   ]
+  },
+  {
+   "word": "sacamos",
+   "before": [
+    "to get out",
+    "to remove",
+    "to take"
+   ],
+   "after": [
+    "we get out",
+    "we remove",
+    "we take"
+   ]
+  },
+  {
+   "word": "creías",
+   "before": [
+    "to think"
+   ],
+   "after": [
+    "you thought"
+   ]
+  },
+  {
+   "word": "comemos",
+   "before": [
+    "to eat"
+   ],
+   "after": [
+    "we eat"
+   ]
+  },
+  {
+   "word": "esperes",
+   "before": [
+    "to wait for",
+    "to expect",
+    "to wait"
+   ],
+   "after": [
+    "you wait for",
+    "you expect",
+    "you wait"
+   ]
+  },
+  {
+   "word": "lindas",
+   "before": [
+    "to border on"
+   ],
+   "after": [
+    "you border on"
+   ]
+  },
+  {
+   "word": "mojes",
+   "before": [
+    "to get wet",
+    "to wet"
+   ],
+   "after": [
+    "you get wet",
+    "you wet"
+   ]
+  },
+  {
+   "word": "grites",
+   "before": [
+    "to scream"
+   ],
+   "after": [
+    "you scream"
+   ]
+  },
+  {
+   "word": "torres",
+   "before": [
+    "to toast"
+   ],
+   "after": [
+    "you toast"
+   ]
+  },
+  {
+   "word": "bajas",
+   "before": [
+    "to come down",
+    "to get out"
+   ],
+   "after": [
+    "you come down",
+    "you get out"
+   ]
+  },
+  {
+   "word": "cambiamos",
+   "before": [
+    "to change",
+    "to swap"
+   ],
+   "after": [
+    "we change",
+    "we swap"
+   ]
+  },
+  {
+   "word": "entiendas",
+   "before": [
+    "to understand"
+   ],
+   "after": [
+    "you understand"
+   ]
+  },
+  {
+   "word": "ignoras",
+   "before": [
+    "to ignore"
+   ],
+   "after": [
+    "you ignore"
+   ]
+  },
+  {
+   "word": "eches",
+   "before": [
+    "to throw",
+    "to put",
+    "to throw out"
+   ],
+   "after": [
+    "you throw",
+    "you put",
+    "you throw out"
+   ]
+  },
+  {
+   "word": "pillamos",
+   "before": [
+    "to catch",
+    "to hit"
+   ],
+   "after": [
+    "we catch",
+    "we hit"
+   ]
+  },
+  {
+   "word": "metemos",
+   "before": [
+    "to put",
+    "to get"
+   ],
+   "after": [
+    "we put",
+    "we get"
+   ]
+  },
+  {
+   "word": "rompimos",
+   "before": [
+    "to break"
+   ],
+   "after": [
+    "we broke"
+   ]
+  },
+  {
+   "word": "enrolas",
+   "before": [
+    "to enlist",
+    "to recruit",
+    "to enroll"
+   ],
+   "after": [
+    "you enlist",
+    "you recruit",
+    "you enroll"
+   ]
+  },
+  {
+   "word": "picheas",
+   "before": [
+    "to ignore"
+   ],
+   "after": [
+    "you ignore"
+   ]
+  },
+  {
+   "word": "criticas",
+   "before": [
+    "to criticize"
+   ],
+   "after": [
+    "you criticize"
+   ]
+  },
+  {
+   "word": "estuviésemos",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "we were"
+   ]
+  },
+  {
+   "word": "mames",
+   "before": [
+    "to booze",
+    "to suck"
+   ],
+   "after": [
+    "you booze",
+    "you suck"
+   ]
+  },
+  {
+   "word": "acuerdes",
+   "before": [
+    "to remind"
+   ],
+   "after": [
+    "you remind"
+   ]
+  },
+  {
+   "word": "llamabas",
+   "before": [
+    "to call"
+   ],
+   "after": [
+    "you called"
+   ]
+  },
+  {
+   "word": "comimos",
+   "before": [
+    "to eat",
+    "to have for dinner"
+   ],
+   "after": [
+    "we ate",
+    "we had for dinner"
+   ]
+  },
+  {
+   "word": "conocerás",
+   "before": [
+    "to know"
+   ],
+   "after": [
+    "you will know"
+   ]
+  },
+  {
+   "word": "tocamos",
+   "before": [
+    "to touch"
+   ],
+   "after": [
+    "we touch"
+   ]
+  },
+  {
+   "word": "faltas",
+   "before": [
+    "to be missing",
+    "to break"
+   ],
+   "after": [
+    "you are missing",
+    "you break"
+   ]
+  },
+  {
+   "word": "sabías",
+   "before": [
+    "to know"
+   ],
+   "after": [
+    "you knew"
+   ]
+  },
+  {
+   "word": "escapas",
+   "before": [
+    "to escape"
+   ],
+   "after": [
+    "you escape"
+   ]
+  },
+  {
+   "word": "habías",
+   "before": [
+    "to have"
+   ],
+   "after": [
+    "you had"
+   ]
+  },
+  {
+   "word": "metías",
+   "before": [
+    "to bring into"
+   ],
+   "after": [
+    "you brought into"
+   ]
+  },
+  {
+   "word": "teníamos",
+   "before": [
+    "to have",
+    "to be"
+   ],
+   "after": [
+    "we had",
+    "we were"
+   ]
+  },
+  {
+   "word": "caemos",
+   "before": [
+    "to fall"
+   ],
+   "after": [
+    "we fall"
+   ]
+  },
+  {
+   "word": "caigas",
+   "before": [
+    "to fall"
+   ],
+   "after": [
+    "you fall"
+   ]
+  },
+  {
+   "word": "muevas",
+   "before": [
+    "to move",
+    "to shake"
+   ],
+   "after": [
+    "you move",
+    "you shake"
+   ]
+  },
+  {
+   "word": "podrás",
+   "before": [
+    "to be able to"
+   ],
+   "after": [
+    "you will be able to"
+   ]
+  },
+  {
+   "word": "controlamos",
+   "before": [
+    "to control"
+   ],
+   "after": [
+    "we control"
+   ]
+  },
+  {
+   "word": "encuentras",
+   "before": [
+    "to find"
+   ],
+   "after": [
+    "you find"
+   ]
+  },
+  {
+   "word": "cierras",
+   "before": [
+    "to close"
+   ],
+   "after": [
+    "you close"
+   ]
+  },
+  {
+   "word": "cantamos",
+   "before": [
+    "to sing"
+   ],
+   "after": [
+    "we sing"
+   ]
+  },
+  {
+   "word": "fumes",
+   "before": [
+    "to smoke"
+   ],
+   "after": [
+    "you smoke"
+   ]
+  },
+  {
+   "word": "llevamos",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "we are"
+   ]
+  },
+  {
+   "word": "vimos",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "we saw"
+   ]
+  },
+  {
+   "word": "cogemos",
+   "before": [
+    "to get",
+    "to pick up"
+   ],
+   "after": [
+    "we get",
+    "we pick up"
+   ]
+  },
+  {
+   "word": "cogimos",
+   "before": [
+    "to take"
+   ],
+   "after": [
+    "we took"
+   ]
+  },
+  {
+   "word": "tengamos",
+   "before": [
+    "to have"
+   ],
+   "after": [
+    "we have"
+   ]
+  },
+  {
+   "word": "hayas",
+   "before": [
+    "to have",
+    "to be"
+   ],
+   "after": [
+    "you have",
+    "you are"
+   ]
+  },
+  {
+   "word": "recojas",
+   "before": [
+    "to pick up",
+    "to gather"
+   ],
+   "after": [
+    "you pick up",
+    "you gather"
+   ]
+  },
+  {
+   "word": "seremos",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "we will be"
+   ]
+  },
+  {
+   "word": "pensamos",
+   "before": [
+    "to think"
+   ],
+   "after": [
+    "we think"
+   ]
+  },
+  {
+   "word": "envíes",
+   "before": [
+    "to send"
+   ],
+   "after": [
+    "you send"
+   ]
+  },
+  {
+   "word": "traes",
+   "before": [
+    "to bring",
+    "to have"
+   ],
+   "after": [
+    "you bring",
+    "you have"
+   ]
+  },
+  {
+   "word": "acuestas",
+   "before": [
+    "to put to bed"
+   ],
+   "after": [
+    "you put to bed"
+   ]
+  },
+  {
+   "word": "deseas",
+   "before": [
+    "to want"
+   ],
+   "after": [
+    "you want"
+   ]
+  },
+  {
+   "word": "pistas",
+   "before": [
+    "to crush"
+   ],
+   "after": [
+    "you crush"
+   ]
+  },
+  {
+   "word": "vinimos",
+   "before": [
+    "to come"
+   ],
+   "after": [
+    "we came"
+   ]
+  },
+  {
+   "word": "amanecías",
+   "before": [
+    "to wake up"
+   ],
+   "after": [
+    "you waked up"
+   ]
+  },
+  {
+   "word": "seamos",
+   "before": [
+    "to be",
+    "to root for"
+   ],
+   "after": [
+    "we are",
+    "we root for"
+   ]
+  },
+  {
+   "word": "conocimos",
+   "before": [
+    "to know",
+    "to meet"
+   ],
+   "after": [
+    "we knew",
+    "we met"
+   ]
+  },
+  {
+   "word": "beses",
+   "before": [
+    "to kiss"
+   ],
+   "after": [
+    "you kiss"
+   ]
+  },
+  {
+   "word": "aguantas",
+   "before": [
+    "to take",
+    "to hold"
+   ],
+   "after": [
+    "you take",
+    "you hold"
+   ]
+  },
+  {
+   "word": "señales",
+   "before": [
+    "to point out",
+    "signals"
+   ],
+   "after": [
+    "you point out",
+    "signals"
+   ]
+  },
+  {
+   "word": "entramos",
+   "before": [
+    "to enter"
+   ],
+   "after": [
+    "we enter"
+   ]
+  },
+  {
+   "word": "intentas",
+   "before": [
+    "to try"
+   ],
+   "after": [
+    "you try"
+   ]
+  },
+  {
+   "word": "tumbamos",
+   "before": [
+    "to demolish"
+   ],
+   "after": [
+    "we demolish"
+   ]
+  },
+  {
+   "word": "enamoras",
+   "before": [
+    "to fall in love"
+   ],
+   "after": [
+    "you fall in love"
+   ]
+  },
+  {
+   "word": "montas",
+   "before": [
+    "to mount"
+   ],
+   "after": [
+    "you mount"
+   ]
+  },
+  {
+   "word": "apagues",
+   "before": [
+    "to turn off",
+    "to switch off"
+   ],
+   "after": [
+    "you turn off",
+    "you switch off"
+   ]
+  },
+  {
+   "word": "coronas",
+   "before": [
+    "to crown",
+    "to queen"
+   ],
+   "after": [
+    "you crown",
+    "you queen"
+   ]
+  },
+  {
+   "word": "coronamos",
+   "before": [
+    "to crown"
+   ],
+   "after": [
+    "we crown"
+   ]
+  },
+  {
+   "word": "hacías",
+   "before": [
+    "to do",
+    "to make"
+   ],
+   "after": [
+    "you did",
+    "you made"
+   ]
+  },
+  {
+   "word": "ordenes",
+   "before": [
+    "to order, command"
+   ],
+   "after": [
+    "you order"
+   ]
+  },
+  {
+   "word": "cocines",
+   "before": [
+    "to cook"
+   ],
+   "after": [
+    "you cook"
+   ]
+  },
+  {
+   "word": "flotas",
+   "before": [
+    "to float"
+   ],
+   "after": [
+    "you float"
+   ]
+  },
+  {
+   "word": "picamos",
+   "before": [
+    "to sting",
+    "to chop"
+   ],
+   "after": [
+    "we sting",
+    "we chop"
+   ]
+  },
+  {
+   "word": "traiciones",
+   "before": [
+    "to betray"
+   ],
+   "after": [
+    "you betray"
+   ]
+  },
+  {
+   "word": "sigas",
+   "before": [
+    "to follow"
+   ],
+   "after": [
+    "you follow"
+   ]
+  },
+  {
+   "word": "usamos",
+   "before": [
+    "to use"
+   ],
+   "after": [
+    "we use"
+   ]
+  },
+  {
+   "word": "emociones",
+   "before": [
+    "to thrill",
+    "to move"
+   ],
+   "after": [
+    "you thrill",
+    "you move"
+   ]
+  },
+  {
+   "word": "medias",
+   "before": [
+    "to intervene",
+    "to be halfway through"
+   ],
+   "after": [
+    "you intervene",
+    "you are halfway through"
+   ]
+  },
+  {
+   "word": "quemes",
+   "before": [
+    "to burn",
+    "to blow"
+   ],
+   "after": [
+    "you burn",
+    "you blow"
+   ]
+  },
+  {
+   "word": "pases",
+   "before": [
+    "couple",
+    "to spend"
+   ],
+   "after": [
+    "couple",
+    "you spend"
+   ]
+  },
+  {
+   "word": "botas",
+   "before": [
+    "to launch"
+   ],
+   "after": [
+    "you launch"
+   ]
+  },
+  {
+   "word": "confías",
+   "before": [
+    "to trust"
+   ],
+   "after": [
+    "you trust"
+   ]
+  },
+  {
+   "word": "curas",
+   "before": [
+    "to heal"
+   ],
+   "after": [
+    "you heal"
+   ]
+  },
+  {
+   "word": "empiezas",
+   "before": [
+    "to start"
+   ],
+   "after": [
+    "you start"
+   ]
+  },
+  {
+   "word": "llenamos",
+   "before": [
+    "to fill"
+   ],
+   "after": [
+    "we fill"
+   ]
+  },
+  {
+   "word": "metas",
+   "before": [
+    "to get"
+   ],
+   "after": [
+    "you get"
+   ]
+  },
+  {
+   "word": "calientes",
+   "before": [
+    "to turn on",
+    "hot"
+   ],
+   "after": [
+    "you turn on",
+    "hot"
+   ]
+  },
+  {
+   "word": "hueles",
+   "before": [
+    "to smell"
+   ],
+   "after": [
+    "you smell"
+   ]
+  },
+  {
+   "word": "intentes",
+   "before": [
+    "to try"
+   ],
+   "after": [
+    "you try"
+   ]
+  },
+  {
+   "word": "juegues",
+   "before": [
+    "to play"
+   ],
+   "after": [
+    "you play"
+   ]
+  },
+  {
+   "word": "secuestramos",
+   "before": [
+    "to kidnap",
+    "to hijack"
+   ],
+   "after": [
+    "we kidnap",
+    "we hijack"
+   ]
+  },
+  {
+   "word": "fallamos",
+   "before": [
+    "to miss"
+   ],
+   "after": [
+    "we miss"
+   ]
+  },
+  {
+   "word": "valores",
+   "before": [
+    "values",
+    "to value, appreciate"
+   ],
+   "after": [
+    "values",
+    "you value"
+   ]
+  },
+  {
+   "word": "doctores",
+   "before": [
+    "to confer a doctorate on"
+   ],
+   "after": [
+    "you confer a doctorate on"
+   ]
+  },
+  {
+   "word": "confundas",
+   "before": [
+    "to confuse"
+   ],
+   "after": [
+    "you confuse"
+   ]
+  },
+  {
+   "word": "criamos",
+   "before": [
+    "to raise",
+    "to bring up"
+   ],
+   "after": [
+    "we raise",
+    "we bring up"
+   ]
+  },
+  {
+   "word": "decides",
+   "before": [
+    "to decide"
+   ],
+   "after": [
+    "you decide"
+   ]
+  },
+  {
+   "word": "mezclamos",
+   "before": [
+    "to mix"
+   ],
+   "after": [
+    "we mix"
+   ]
+  },
+  {
+   "word": "termines",
+   "before": [
+    "to end",
+    "to finish"
+   ],
+   "after": [
+    "you end",
+    "you finish"
+   ]
+  },
+  {
+   "word": "tiras",
+   "before": [
+    "to throw"
+   ],
+   "after": [
+    "you throw"
+   ]
+  },
+  {
+   "word": "manchas",
+   "before": [
+    "to stain"
+   ],
+   "after": [
+    "you stain"
+   ]
+  },
+  {
+   "word": "cambias",
+   "before": [
+    "to change"
+   ],
+   "after": [
+    "you change"
+   ]
+  },
+  {
+   "word": "dances",
+   "before": [
+    "to dance"
+   ],
+   "after": [
+    "you dance"
+   ]
+  },
+  {
+   "word": "duras",
+   "before": [
+    "to last",
+    "hard",
+    "tough"
+   ],
+   "after": [
+    "you last",
+    "hard",
+    "tough"
+   ]
+  },
+  {
+   "word": "luzcas",
+   "before": [
+    "to show"
+   ],
+   "after": [
+    "you show"
+   ]
+  },
+  {
+   "word": "sueltes",
+   "before": [
+    "to let go of",
+    "to drop"
+   ],
+   "after": [
+    "you let go of",
+    "you drop"
+   ]
+  },
+  {
+   "word": "acostumbres",
+   "before": [
+    "to get used to"
+   ],
+   "after": [
+    "you get used to"
+   ]
+  },
+  {
+   "word": "asustas",
+   "before": [
+    "to scare"
+   ],
+   "after": [
+    "you scare"
+   ]
+  },
+  {
+   "word": "dementes",
+   "before": [
+    "to drive crazy"
+   ],
+   "after": [
+    "you drive crazy"
+   ]
+  },
+  {
+   "word": "finas",
+   "before": [
+    "to pass away"
+   ],
+   "after": [
+    "you pass away"
+   ]
+  },
+  {
+   "word": "fumas",
+   "before": [
+    "to smoke"
+   ],
+   "after": [
+    "you smoke"
+   ]
+  },
+  {
+   "word": "juntamos",
+   "before": [
+    "to put together",
+    "to get together"
+   ],
+   "after": [
+    "we put together",
+    "we get together"
+   ]
+  },
+  {
+   "word": "vieras",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "you saw"
+   ]
+  },
+  {
+   "word": "pagas",
+   "before": [
+    "to pay"
+   ],
+   "after": [
+    "you pay"
+   ]
+  },
+  {
+   "word": "perdamos",
+   "before": [
+    "to waste"
+   ],
+   "after": [
+    "we waste"
+   ]
+  },
+  {
+   "word": "torturas",
+   "before": [
+    "to torture"
+   ],
+   "after": [
+    "you torture"
+   ]
+  },
+  {
+   "word": "muerdas",
+   "before": [
+    "to bite"
+   ],
+   "after": [
+    "you bite"
+   ]
+  },
+  {
+   "word": "muerdes",
+   "before": [
+    "to bite"
+   ],
+   "after": [
+    "you bite"
+   ]
+  },
+  {
+   "word": "ofendas",
+   "before": [
+    "to offend"
+   ],
+   "after": [
+    "you offend"
+   ]
+  },
+  {
+   "word": "sudas",
+   "before": [
+    "to sweat"
+   ],
+   "after": [
+    "you sweat"
+   ]
+  },
+  {
+   "word": "terminas",
+   "before": [
+    "to end up"
+   ],
+   "after": [
+    "you end up"
+   ]
+  },
+  {
+   "word": "ilusiones",
+   "before": [
+    "to excite"
+   ],
+   "after": [
+    "you excite"
+   ]
+  },
+  {
+   "word": "crías",
+   "before": [
+    "to bring up"
+   ],
+   "after": [
+    "you bring up"
+   ]
+  },
+  {
+   "word": "desnudas",
+   "before": [
+    "to undress"
+   ],
+   "after": [
+    "you undress"
+   ]
+  },
+  {
+   "word": "vendas",
+   "before": [
+    "to sell",
+    "blindfolds"
+   ],
+   "after": [
+    "you sell",
+    "blindfolds"
+   ]
+  },
+  {
+   "word": "brincas",
+   "before": [
+    "to jump"
+   ],
+   "after": [
+    "you jump"
+   ]
+  },
+  {
+   "word": "bregues",
+   "before": [
+    "to quarrel",
+    "to work hard"
+   ],
+   "after": [
+    "you quarrel",
+    "you work hard"
+   ]
+  },
+  {
+   "word": "malcriás",
+   "before": [
+    "to spoil, coddle"
+   ],
+   "after": [
+    "you spoil"
+   ]
+  },
+  {
+   "word": "enrolamos",
+   "before": [
+    "to enroll"
+   ],
+   "after": [
+    "we enroll"
+   ]
+  },
+  {
+   "word": "encojones",
+   "before": [
+    "to annoy, anger"
+   ],
+   "after": [
+    "you annoy"
+   ]
+  },
+  {
+   "word": "aborrecías",
+   "before": [
+    "to loathe"
+   ],
+   "after": [
+    "you loathed"
+   ]
+  },
+  {
+   "word": "chinguemos",
+   "before": [
+    "to fuck"
+   ],
+   "after": [
+    "we fuck"
+   ]
+  },
+  {
+   "word": "fantasmeas",
+   "before": [
+    "to show off"
+   ],
+   "after": [
+    "you show off"
+   ]
+  },
+  {
+   "word": "arrebatamos",
+   "before": [
+    "to snatch"
+   ],
+   "after": [
+    "we snatch"
+   ]
+  },
+  {
+   "word": "amarrás",
+   "before": [
+    "to tie up"
+   ],
+   "after": [
+    "you tie up"
+   ]
+  },
+  {
+   "word": "capeamos",
+   "before": [
+    "to get through",
+    "to coat"
+   ],
+   "after": [
+    "we get through",
+    "we coat"
+   ]
+  },
+  {
+   "word": "cachamos",
+   "before": [
+    "to catch"
+   ],
+   "after": [
+    "we catch"
+   ]
+  },
+  {
+   "word": "chillamos",
+   "before": [
+    "to scream",
+    "to shout"
+   ],
+   "after": [
+    "we scream",
+    "we shout"
+   ]
+  },
+  {
+   "word": "tuvieses",
+   "before": [
+    "to have"
+   ],
+   "after": [
+    "you had"
+   ]
+  },
+  {
+   "word": "matás",
+   "before": [
+    "to kill"
+   ],
+   "after": [
+    "you kill"
+   ]
+  },
+  {
+   "word": "volvías",
+   "before": [
+    "to turn"
+   ],
+   "after": [
+    "you turned"
+   ]
+  },
+  {
+   "word": "vengamos",
+   "before": [
+    "to come"
+   ],
+   "after": [
+    "we come"
+   ]
+  },
+  {
+   "word": "pondrías",
+   "before": [
+    "to put"
+   ],
+   "after": [
+    "you put"
+   ]
+  },
+  {
+   "word": "trabajaras",
+   "before": [
+    "to work"
+   ],
+   "after": [
+    "you worked"
+   ]
+  },
+  {
+   "word": "comíamos",
+   "before": [
+    "to eat"
+   ],
+   "after": [
+    "we ate"
+   ]
+  },
+  {
+   "word": "quedás",
+   "before": [
+    "to remain"
+   ],
+   "after": [
+    "you remain"
+   ]
+  },
+  {
+   "word": "perdías",
+   "before": [
+    "to lose"
+   ],
+   "after": [
+    "you lost"
+   ]
+  },
+  {
+   "word": "dormimos",
+   "before": [
+    "to sleep"
+   ],
+   "after": [
+    "we sleep"
+   ]
+  },
+  {
+   "word": "podrías",
+   "before": [
+    "can"
+   ],
+   "after": [
+    "you can"
+   ]
+  },
+  {
+   "word": "calmamos",
+   "before": [
+    "to calm down"
+   ],
+   "after": [
+    "we calm down"
+   ]
+  },
+  {
+   "word": "compres",
+   "before": [
+    "to buy"
+   ],
+   "after": [
+    "you buy"
+   ]
+  },
+  {
+   "word": "comprás",
+   "before": [
+    "to buy"
+   ],
+   "after": [
+    "you buy"
+   ]
+  },
+  {
+   "word": "estábamos",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "we were"
+   ]
+  },
+  {
+   "word": "libertas",
+   "before": [
+    "to liberate"
+   ],
+   "after": [
+    "you liberate"
+   ]
+  },
+  {
+   "word": "pelees",
+   "before": [
+    "to fight"
+   ],
+   "after": [
+    "you fight"
+   ]
+  },
+  {
+   "word": "paremos",
+   "before": [
+    "to stop"
+   ],
+   "after": [
+    "we stop"
+   ]
+  },
+  {
+   "word": "hagamos",
+   "before": [
+    "let's do"
+   ],
+   "after": [
+    "we let's do"
+   ]
+  },
+  {
+   "word": "expliques",
+   "before": [
+    "to explain"
+   ],
+   "after": [
+    "you explain"
+   ]
+  },
+  {
+   "word": "calientas",
+   "before": [
+    "to warm up"
+   ],
+   "after": [
+    "you warm up"
+   ]
+  },
+  {
+   "word": "veremos",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "we will see"
+   ]
+  },
+  {
+   "word": "volás",
+   "before": [
+    "to fly"
+   ],
+   "after": [
+    "you fly"
+   ]
+  },
+  {
+   "word": "cases",
+   "before": [
+    "to go together"
+   ],
+   "after": [
+    "you go together"
+   ]
+  },
+  {
+   "word": "casábamos",
+   "before": [
+    "to marry"
+   ],
+   "after": [
+    "we married"
+   ]
+  },
+  {
+   "word": "escribas",
+   "before": [
+    "to write"
+   ],
+   "after": [
+    "you write"
+   ]
+  },
+  {
+   "word": "escribimos",
+   "before": [
+    "to write"
+   ],
+   "after": [
+    "we write"
+   ]
+  },
+  {
+   "word": "escapabas",
+   "before": [
+    "to escape"
+   ],
+   "after": [
+    "you escaped"
+   ]
+  },
+  {
+   "word": "corremos",
+   "before": [
+    "to run"
+   ],
+   "after": [
+    "we run"
+   ]
+  },
+  {
+   "word": "olvidarías",
+   "before": [
+    "to forget"
+   ],
+   "after": [
+    "you forget"
+   ]
+  },
+  {
+   "word": "caigamos",
+   "before": [
+    "to fall"
+   ],
+   "after": [
+    "we fall"
+   ]
+  },
+  {
+   "word": "ibas",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you were"
+   ]
+  },
+  {
+   "word": "vayamos",
+   "before": [
+    "to go"
+   ],
+   "after": [
+    "we go"
+   ]
+  },
+  {
+   "word": "parecíamos",
+   "before": [
+    "to seem"
+   ],
+   "after": [
+    "we seemed"
+   ]
+  },
+  {
+   "word": "cuidamos",
+   "before": [
+    "to take care of"
+   ],
+   "after": [
+    "we take care of"
+   ]
+  },
+  {
+   "word": "jodés",
+   "before": [
+    "to piss off"
+   ],
+   "after": [
+    "you piss off"
+   ]
+  },
+  {
+   "word": "alejas",
+   "before": [
+    "to move away from"
+   ],
+   "after": [
+    "you move away from"
+   ]
+  },
+  {
+   "word": "perdimos",
+   "before": [
+    "to lose"
+   ],
+   "after": [
+    "we lost"
+   ]
+  },
+  {
+   "word": "recibas",
+   "before": [
+    "to receive"
+   ],
+   "after": [
+    "you receive"
+   ]
+  },
+  {
+   "word": "respiras",
+   "before": [
+    "to breathe"
+   ],
+   "after": [
+    "you breathe"
+   ]
+  },
+  {
+   "word": "respiramos",
+   "before": [
+    "to breathe"
+   ],
+   "after": [
+    "we breathe"
+   ]
+  },
+  {
+   "word": "trabajas",
+   "before": [
+    "to work"
+   ],
+   "after": [
+    "you work"
+   ]
+  },
+  {
+   "word": "modeles",
+   "before": [
+    "to model"
+   ],
+   "after": [
+    "you model"
+   ]
+  },
+  {
+   "word": "hablemos",
+   "before": [
+    "to talk"
+   ],
+   "after": [
+    "we talk"
+   ]
+  },
+  {
+   "word": "andes",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you are"
+   ]
+  },
+  {
+   "word": "rompes",
+   "before": [
+    "to break"
+   ],
+   "after": [
+    "you break"
+   ]
+  },
+  {
+   "word": "rompías",
+   "before": [
+    "to break"
+   ],
+   "after": [
+    "you broke"
+   ]
+  },
+  {
+   "word": "rompamos",
+   "before": [
+    "to break"
+   ],
+   "after": [
+    "we break"
+   ]
+  },
+  {
+   "word": "rompemos",
+   "before": [
+    "to break"
+   ],
+   "after": [
+    "we break"
+   ]
+  },
+  {
+   "word": "podías",
+   "before": [
+    "to be able to"
+   ],
+   "after": [
+    "you were able to"
+   ]
+  },
+  {
+   "word": "volveremos",
+   "before": [
+    "to come back"
+   ],
+   "after": [
+    "we will come back"
+   ]
+  },
+  {
+   "word": "cumples",
+   "before": [
+    "to keep"
+   ],
+   "after": [
+    "you keep"
+   ]
+  },
+  {
+   "word": "cumplimos",
+   "before": [
+    "to fulfill"
+   ],
+   "after": [
+    "we fulfill"
+   ]
+  },
+  {
+   "word": "cansas",
+   "before": [
+    "to be tiring"
+   ],
+   "after": [
+    "you are tiring"
+   ]
+  },
+  {
+   "word": "cansás",
+   "before": [
+    "to annoy"
+   ],
+   "after": [
+    "you annoy"
+   ]
+  },
+  {
+   "word": "tiramos",
+   "before": [
+    "to throw"
+   ],
+   "after": [
+    "we throw"
+   ]
+  },
+  {
+   "word": "tiremos",
+   "before": [
+    "to throw away"
+   ],
+   "after": [
+    "we throw away"
+   ]
+  },
+  {
+   "word": "despiertes",
+   "before": [
+    "to wake up"
+   ],
+   "after": [
+    "you wake up"
+   ]
+  },
+  {
+   "word": "estuvimos",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "we were"
+   ]
+  },
+  {
+   "word": "cruzas",
+   "before": [
+    "to cross"
+   ],
+   "after": [
+    "you cross"
+   ]
+  },
+  {
+   "word": "botás",
+   "before": [
+    "to bounce"
+   ],
+   "after": [
+    "you bounce"
+   ]
+  },
+  {
+   "word": "tomamos",
+   "before": [
+    "to take"
+   ],
+   "after": [
+    "we take"
+   ]
+  },
+  {
+   "word": "gritas",
+   "before": [
+    "to scream"
+   ],
+   "after": [
+    "you scream"
+   ]
+  },
+  {
+   "word": "gritamos",
+   "before": [
+    "to yell"
+   ],
+   "after": [
+    "we yell"
+   ]
+  },
+  {
+   "word": "pegues",
+   "before": [
+    "to paste"
+   ],
+   "after": [
+    "you paste"
+   ]
+  },
+  {
+   "word": "tomes",
+   "before": [
+    "to take"
+   ],
+   "after": [
+    "you take"
+   ]
+  },
+  {
+   "word": "ganamos",
+   "before": [
+    "to win"
+   ],
+   "after": [
+    "we win"
+   ]
+  },
+  {
+   "word": "crecías",
+   "before": [
+    "to grow"
+   ],
+   "after": [
+    "you grew"
+   ]
+  },
+  {
+   "word": "tomas",
+   "before": [
+    "to take"
+   ],
+   "after": [
+    "you take"
+   ]
+  },
+  {
+   "word": "mintamos",
+   "before": [
+    "to lie"
+   ],
+   "after": [
+    "we lie"
+   ]
+  },
+  {
+   "word": "rayás",
+   "before": [
+    "to scratch"
+   ],
+   "after": [
+    "you scratch"
+   ]
+  },
+  {
+   "word": "sonamos",
+   "before": [
+    "to ring"
+   ],
+   "after": [
+    "we ring"
+   ]
+  },
+  {
+   "word": "agarras",
+   "before": [
+    "to take"
+   ],
+   "after": [
+    "you take"
+   ]
+  },
+  {
+   "word": "apuestes",
+   "before": [
+    "to bet"
+   ],
+   "after": [
+    "you bet"
+   ]
+  },
+  {
+   "word": "baratas",
+   "before": [
+    "to barter"
+   ],
+   "after": [
+    "you barter"
+   ]
+  },
+  {
+   "word": "conseguimos",
+   "before": [
+    "to get"
+   ],
+   "after": [
+    "we get"
+   ]
+  },
+  {
+   "word": "gustabas",
+   "before": [
+    "to like"
+   ],
+   "after": [
+    "you liked"
+   ]
+  },
+  {
+   "word": "escondas",
+   "before": [
+    "to hide"
+   ],
+   "after": [
+    "you hide"
+   ]
+  },
+  {
+   "word": "escondías",
+   "before": [
+    "to hide"
+   ],
+   "after": [
+    "you hid"
+   ]
+  },
+  {
+   "word": "apagas",
+   "before": [
+    "extinguish"
+   ],
+   "after": [
+    "you extinguish"
+   ]
+  },
+  {
+   "word": "apagamos",
+   "before": [
+    "to turn off"
+   ],
+   "after": [
+    "we turn off"
+   ]
+  },
+  {
+   "word": "explotes",
+   "before": [
+    "to go off"
+   ],
+   "after": [
+    "you go off"
+   ]
+  },
+  {
+   "word": "odias",
+   "before": [
+    "to hate"
+   ],
+   "after": [
+    "you hate"
+   ]
+  },
+  {
+   "word": "usas",
+   "before": [
+    "to wear"
+   ],
+   "after": [
+    "you wear"
+   ]
+  },
+  {
+   "word": "tardes",
+   "before": [
+    "to take too long"
+   ],
+   "after": [
+    "you take too long"
+   ]
+  },
+  {
+   "word": "desayunes",
+   "before": [
+    "to have for breakfast"
+   ],
+   "after": [
+    "you have for breakfast"
+   ]
+  },
+  {
+   "word": "desayunamos",
+   "before": [
+    "to have breakfast"
+   ],
+   "after": [
+    "we have breakfast"
+   ]
+  },
+  {
+   "word": "imaginas",
+   "before": [
+    "to imagine"
+   ],
+   "after": [
+    "you imagine"
+   ]
+  },
+  {
+   "word": "indiquemos",
+   "before": [
+    "to indicate"
+   ],
+   "after": [
+    "we indicate"
+   ]
+  },
+  {
+   "word": "perdemos",
+   "before": [
+    "to lose"
+   ],
+   "after": [
+    "we lose"
+   ]
+  },
+  {
+   "word": "venimos",
+   "before": [
+    "to come"
+   ],
+   "after": [
+    "we come"
+   ]
+  },
+  {
+   "word": "complicás",
+   "before": [
+    "to complicate"
+   ],
+   "after": [
+    "you complicate"
+   ]
+  },
+  {
+   "word": "compliques",
+   "before": [
+    "to complicate"
+   ],
+   "after": [
+    "you complicate"
+   ]
+  },
+  {
+   "word": "devuelvas",
+   "before": [
+    "to give back"
+   ],
+   "after": [
+    "you give back"
+   ]
+  },
+  {
+   "word": "encontremos",
+   "before": [
+    "to encounter"
+   ],
+   "after": [
+    "we encounter"
+   ]
+  },
+  {
+   "word": "llores",
+   "before": [
+    "to cry"
+   ],
+   "after": [
+    "you cry"
+   ]
+  },
+  {
+   "word": "tratamos",
+   "before": [
+    "to treat"
+   ],
+   "after": [
+    "we treat"
+   ]
+  },
+  {
+   "word": "cometamos",
+   "before": [
+    "to make"
+   ],
+   "after": [
+    "we make"
+   ]
+  },
+  {
+   "word": "formamos",
+   "before": [
+    "to set up"
+   ],
+   "after": [
+    "we set up"
+   ]
+  },
+  {
+   "word": "quemamos",
+   "before": [
+    "to burn"
+   ],
+   "after": [
+    "we burn"
+   ]
+  },
+  {
+   "word": "viajes",
+   "before": [
+    "to travel"
+   ],
+   "after": [
+    "you travel"
+   ]
+  },
+  {
+   "word": "retires",
+   "before": [
+    "to withdraw"
+   ],
+   "after": [
+    "you withdraw"
+   ]
+  },
+  {
+   "word": "retirás",
+   "before": [
+    "to withdraw"
+   ],
+   "after": [
+    "you withdraw"
+   ]
+  },
+  {
+   "word": "comenzamos",
+   "before": [
+    "to start"
+   ],
+   "after": [
+    "we start"
+   ]
+  },
+  {
+   "word": "jodas",
+   "before": [
+    "to fuck with"
+   ],
+   "after": [
+    "you fuck with"
+   ]
+  },
+  {
+   "word": "pensabas",
+   "before": [
+    "to think"
+   ],
+   "after": [
+    "you thought"
+   ]
+  },
+  {
+   "word": "secamos",
+   "before": [
+    "to dry"
+   ],
+   "after": [
+    "we dry"
+   ]
+  },
+  {
+   "word": "vistes",
+   "before": [
+    "to dress"
+   ],
+   "after": [
+    "you dress"
+   ]
+  },
+  {
+   "word": "vestimos",
+   "before": [
+    "to dress"
+   ],
+   "after": [
+    "we dress"
+   ]
+  },
+  {
+   "word": "cures",
+   "before": [
+    "to heal"
+   ],
+   "after": [
+    "you heal"
+   ]
+  },
+  {
+   "word": "decidimos",
+   "before": [
+    "to decide"
+   ],
+   "after": [
+    "we decide"
+   ]
+  },
+  {
+   "word": "confirmamos",
+   "before": [
+    "to confirm"
+   ],
+   "after": [
+    "we confirm"
+   ]
+  },
+  {
+   "word": "convienes",
+   "before": [
+    "to be advisable"
+   ],
+   "after": [
+    "you are advisable"
+   ]
+  },
+  {
+   "word": "dispares",
+   "before": [
+    "to shoot"
+   ],
+   "after": [
+    "you shoot"
+   ]
+  },
+  {
+   "word": "encendías",
+   "before": [
+    "to turn on"
+   ],
+   "after": [
+    "you turned on"
+   ]
+  },
+  {
+   "word": "gastamos",
+   "before": [
+    "to spend"
+   ],
+   "after": [
+    "we spend"
+   ]
+  },
+  {
+   "word": "nacemos",
+   "before": [
+    "to be born"
+   ],
+   "after": [
+    "we are born"
+   ]
+  },
+  {
+   "word": "nacimos",
+   "before": [
+    "to hatch"
+   ],
+   "after": [
+    "we hatched"
+   ]
+  },
+  {
+   "word": "cobramos",
+   "before": [
+    "to charge for"
+   ],
+   "after": [
+    "we charge for"
+   ]
+  },
+  {
+   "word": "consigues",
+   "before": [
+    "to get"
+   ],
+   "after": [
+    "you get"
+   ]
+  },
+  {
+   "word": "filas",
+   "before": [
+    "to rumble"
+   ],
+   "after": [
+    "you rumble"
+   ]
+  },
+  {
+   "word": "justas",
+   "before": [
+    "to joust"
+   ],
+   "after": [
+    "you joust"
+   ]
+  },
+  {
+   "word": "operes",
+   "before": [
+    "to undergo plastic surgery"
+   ],
+   "after": [
+    "you undergo plastic surgery"
+   ]
+  },
+  {
+   "word": "uses",
+   "before": [
+    "to use"
+   ],
+   "after": [
+    "you use"
+   ]
+  },
+  {
+   "word": "enteres",
+   "before": [
+    "to inform"
+   ],
+   "after": [
+    "you inform"
+   ]
+  },
+  {
+   "word": "enterramos",
+   "before": [
+    "to bury"
+   ],
+   "after": [
+    "we bury"
+   ]
+  },
+  {
+   "word": "mientas",
+   "before": [
+    "to lie"
+   ],
+   "after": [
+    "you lie"
+   ]
+  },
+  {
+   "word": "mojamos",
+   "before": [
+    "to get wet"
+   ],
+   "after": [
+    "we get wet"
+   ]
+  },
+  {
+   "word": "niegas",
+   "before": [
+    "to deny"
+   ],
+   "after": [
+    "you deny"
+   ]
+  },
+  {
+   "word": "orillas",
+   "before": [
+    "to go around"
+   ],
+   "after": [
+    "you go around"
+   ]
+  },
+  {
+   "word": "pites",
+   "before": [
+    "to whistle, buzz, beep, honk, puff"
+   ],
+   "after": [
+    "you whistle"
+   ]
+  },
+  {
+   "word": "respetamos",
+   "before": [
+    "to respect"
+   ],
+   "after": [
+    "we respect"
+   ]
+  },
+  {
+   "word": "sueñes",
+   "before": [
+    "to dream"
+   ],
+   "after": [
+    "you dream"
+   ]
+  },
+  {
+   "word": "ruedas",
+   "before": [
+    "to go round"
+   ],
+   "after": [
+    "you go round"
+   ]
+  },
+  {
+   "word": "apuestas",
+   "before": [
+    "to bet"
+   ],
+   "after": [
+    "you bet"
+   ]
+  },
+  {
+   "word": "agotes",
+   "before": [
+    "to wear out"
+   ],
+   "after": [
+    "you wear out"
+   ]
+  },
+  {
+   "word": "agotamos",
+   "before": [
+    "to wear out"
+   ],
+   "after": [
+    "we wear out"
+   ]
+  },
+  {
+   "word": "aventuras",
+   "before": [
+    "to venture"
+   ],
+   "after": [
+    "you venture"
+   ]
+  },
+  {
+   "word": "confundimos",
+   "before": [
+    "to confuse"
+   ],
+   "after": [
+    "we confuse"
+   ]
+  },
+  {
+   "word": "dures",
+   "before": [
+    "to last"
+   ],
+   "after": [
+    "you last"
+   ]
+  },
+  {
+   "word": "duramos",
+   "before": [
+    "to last"
+   ],
+   "after": [
+    "we last"
+   ]
+  },
+  {
+   "word": "encantes",
+   "before": [
+    "to love"
+   ],
+   "after": [
+    "you love"
+   ]
+  },
+  {
+   "word": "extrañes",
+   "before": [
+    "to miss"
+   ],
+   "after": [
+    "you miss"
+   ]
+  },
+  {
+   "word": "pagamos",
+   "before": [
+    "to pay"
+   ],
+   "after": [
+    "we pay"
+   ]
+  },
+  {
+   "word": "pusimos",
+   "before": [
+    "to put on"
+   ],
+   "after": [
+    "we put on"
+   ]
+  },
+  {
+   "word": "recuerdes",
+   "before": [
+    "to remember"
+   ],
+   "after": [
+    "you remember"
+   ]
+  },
+  {
+   "word": "suenas",
+   "before": [
+    "to sound"
+   ],
+   "after": [
+    "you sound"
+   ]
+  },
+  {
+   "word": "brillas",
+   "before": [
+    "to shine"
+   ],
+   "after": [
+    "you shine"
+   ]
+  },
+  {
+   "word": "brillamos",
+   "before": [
+    "to shine"
+   ],
+   "after": [
+    "we shine"
+   ]
+  },
+  {
+   "word": "colocas",
+   "before": [
+    "to put"
+   ],
+   "after": [
+    "you put"
+   ]
+  },
+  {
+   "word": "complacías",
+   "before": [
+    "to please"
+   ],
+   "after": [
+    "you pleased"
+   ]
+  },
+  {
+   "word": "cuadrás",
+   "before": [
+    "to square"
+   ],
+   "after": [
+    "you square"
+   ]
+  },
+  {
+   "word": "insistas",
+   "before": [
+    "to insist"
+   ],
+   "after": [
+    "you insist"
+   ]
+  },
+  {
+   "word": "ligas",
+   "before": [
+    "to bind"
+   ],
+   "after": [
+    "you bind"
+   ]
+  },
+  {
+   "word": "ligamos",
+   "before": [
+    "to tie"
+   ],
+   "after": [
+    "we tie"
+   ]
+  },
+  {
+   "word": "marques",
+   "before": [
+    "to mark"
+   ],
+   "after": [
+    "you mark"
+   ]
+  },
+  {
+   "word": "morimos",
+   "before": [
+    "to die"
+   ],
+   "after": [
+    "we die"
+   ]
+  },
+  {
+   "word": "perteneces",
+   "before": [
+    "to belong to"
+   ],
+   "after": [
+    "you belong to"
+   ]
+  },
+  {
+   "word": "revelás",
+   "before": [
+    "to reveal"
+   ],
+   "after": [
+    "you reveal"
+   ]
+  },
+  {
+   "word": "sirves",
+   "before": [
+    "to serve as"
+   ],
+   "after": [
+    "you serve as"
+   ]
+  },
+  {
+   "word": "listas",
+   "before": [
+    "to list"
+   ],
+   "after": [
+    "you list"
+   ]
+  },
+  {
+   "word": "firmes",
+   "before": [
+    "to sign"
+   ],
+   "after": [
+    "you sign"
+   ]
+  },
+  {
+   "word": "aceras",
+   "before": [
+    "to pave"
+   ],
+   "after": [
+    "you pave"
+   ]
+  },
+  {
+   "word": "acostumbrás",
+   "before": [
+    "to get used to"
+   ],
+   "after": [
+    "you get used to"
+   ]
+  },
+  {
+   "word": "amabas",
+   "before": [
+    "to love"
+   ],
+   "after": [
+    "you loved"
+   ]
+  },
+  {
+   "word": "bloqueemos",
+   "before": [
+    "to block"
+   ],
+   "after": [
+    "we block"
+   ]
+  },
+  {
+   "word": "cepillás",
+   "before": [
+    "to brush"
+   ],
+   "after": [
+    "you brush"
+   ]
+  },
+  {
+   "word": "descifrás",
+   "before": [
+    "to decipher"
+   ],
+   "after": [
+    "you decipher"
+   ]
+  },
+  {
+   "word": "enojes",
+   "before": [
+    "to annoy"
+   ],
+   "after": [
+    "you annoy"
+   ]
+  },
+  {
+   "word": "envolvemos",
+   "before": [
+    "to envelop"
+   ],
+   "after": [
+    "we envelop"
+   ]
+  },
+  {
+   "word": "exijas",
+   "before": [
+    "to demand; to require; to call for"
+   ],
+   "after": [
+    "you demand; you require; you call for"
+   ]
+  },
+  {
+   "word": "levantes",
+   "before": [
+    "to raise"
+   ],
+   "after": [
+    "you raise"
+   ]
+  },
+  {
+   "word": "tiendas",
+   "before": [
+    "to approach"
+   ],
+   "after": [
+    "you approach"
+   ]
+  },
+  {
+   "word": "botes",
+   "before": [
+    "to launch"
+   ],
+   "after": [
+    "you launch"
+   ]
+  },
+  {
+   "word": "abrimos",
+   "before": [
+    "to open"
+   ],
+   "after": [
+    "we open"
+   ]
+  },
+  {
+   "word": "apretás",
+   "before": [
+    "to press"
+   ],
+   "after": [
+    "you press"
+   ]
+  },
+  {
+   "word": "bailas",
+   "before": [
+    "to dance"
+   ],
+   "after": [
+    "you dance"
+   ]
+  },
+  {
+   "word": "callas",
+   "before": [
+    "to be quiet"
+   ],
+   "after": [
+    "you are quiet"
+   ]
+  },
+  {
+   "word": "chocamos",
+   "before": [
+    "to bump"
+   ],
+   "after": [
+    "we bump"
+   ]
+  },
+  {
+   "word": "confíes",
+   "before": [
+    "to trust"
+   ],
+   "after": [
+    "you trust"
+   ]
+  },
+  {
+   "word": "cortes",
+   "before": [
+    "to cut"
+   ],
+   "after": [
+    "you cut"
+   ]
+  },
+  {
+   "word": "estrenas",
+   "before": [
+    "to wear for the first time"
+   ],
+   "after": [
+    "you wear for the first time"
+   ]
+  },
+  {
+   "word": "fichás",
+   "before": [
+    "to put on file"
+   ],
+   "after": [
+    "you put on file"
+   ]
+  },
+  {
+   "word": "miramos",
+   "before": [
+    "to look at"
+   ],
+   "after": [
+    "we look at"
+   ]
+  },
+  {
+   "word": "rayas",
+   "before": [
+    "to scratch"
+   ],
+   "after": [
+    "you scratch"
+   ]
+  },
+  {
+   "word": "tires",
+   "before": [
+    "to throw"
+   ],
+   "after": [
+    "you throw"
+   ]
+  },
+  {
+   "word": "torturamos",
+   "before": [
+    "to torture"
+   ],
+   "after": [
+    "we torture"
+   ]
+  },
+  {
+   "word": "obras",
+   "before": [
+    "to work"
+   ],
+   "after": [
+    "you work"
+   ]
+  },
+  {
+   "word": "entregas",
+   "before": [
+    "to give"
+   ],
+   "after": [
+    "you give"
+   ]
+  },
+  {
+   "word": "ciegas",
+   "before": [
+    "to blind"
+   ],
+   "after": [
+    "you blind"
+   ]
+  },
+  {
+   "word": "comienzas",
+   "before": [
+    "to start"
+   ],
+   "after": [
+    "you start"
+   ]
+  },
+  {
+   "word": "conformes",
+   "before": [
+    "to be satisfied with, to make do with"
+   ],
+   "after": [
+    "you are satisfied with"
+   ]
+  },
+  {
+   "word": "contamos",
+   "before": [
+    "to count"
+   ],
+   "after": [
+    "we count"
+   ]
+  },
+  {
+   "word": "desesperas",
+   "before": [
+    "to drive crazy"
+   ],
+   "after": [
+    "you drive crazy"
+   ]
+  },
+  {
+   "word": "desesperes",
+   "before": [
+    "to drive to despair"
+   ],
+   "after": [
+    "you drive to despair"
+   ]
+  },
+  {
+   "word": "dividimos",
+   "before": [
+    "to split up"
+   ],
+   "after": [
+    "we split up"
+   ]
+  },
+  {
+   "word": "encerrás",
+   "before": [
+    "to lock up"
+   ],
+   "after": [
+    "you lock up"
+   ]
+  },
+  {
+   "word": "excitas",
+   "before": [
+    "to excite"
+   ],
+   "after": [
+    "you excite"
+   ]
+  },
+  {
+   "word": "frías",
+   "before": [
+    "to fry"
+   ],
+   "after": [
+    "you fry"
+   ]
+  },
+  {
+   "word": "insistes",
+   "before": [
+    "to insist"
+   ],
+   "after": [
+    "you insist"
+   ]
+  },
+  {
+   "word": "limites",
+   "before": [
+    "to limit"
+   ],
+   "after": [
+    "you limit"
+   ]
+  },
+  {
+   "word": "mangamos",
+   "before": [
+    "to pinch"
+   ],
+   "after": [
+    "we pinch"
+   ]
+  },
+  {
+   "word": "mordías",
+   "before": [
+    "to bite"
+   ],
+   "after": [
+    "you bited"
+   ]
+  },
+  {
+   "word": "movemos",
+   "before": [
+    "to move"
+   ],
+   "after": [
+    "we move"
+   ]
+  },
+  {
+   "word": "partimos",
+   "before": [
+    "to leave"
+   ],
+   "after": [
+    "we leave"
+   ]
+  },
+  {
+   "word": "prendimos",
+   "before": [
+    "to light"
+   ],
+   "after": [
+    "we lighted"
+   ]
+  },
+  {
+   "word": "robamos",
+   "before": [
+    "to steal"
+   ],
+   "after": [
+    "we steal"
+   ]
+  },
+  {
+   "word": "vistas",
+   "before": [
+    "to cover"
+   ],
+   "after": [
+    "you cover"
+   ]
+  },
+  {
+   "word": "bañes",
+   "before": [
+    "to bathe"
+   ],
+   "after": [
+    "you bathe"
+   ]
+  },
+  {
+   "word": "bañamos",
+   "before": [
+    "to bathe"
+   ],
+   "after": [
+    "we bathe"
+   ]
+  },
+  {
+   "word": "podes",
+   "before": [
+    "to trim"
+   ],
+   "after": [
+    "you trim"
+   ]
+  },
+  {
+   "word": "fías",
+   "before": [
+    "to sell on credit"
+   ],
+   "after": [
+    "you sell on credit"
+   ]
+  },
+  {
+   "word": "celas",
+   "before": [
+    "to watch over"
+   ],
+   "after": [
+    "you watch over"
+   ]
+  },
+  {
+   "word": "pelas",
+   "before": [
+    "to fleece"
+   ],
+   "after": [
+    "you fleece"
+   ]
+  },
+  {
+   "word": "virás",
+   "before": [
+    "to tone"
+   ],
+   "after": [
+    "you tone"
+   ]
+  },
+  {
+   "word": "ajorás",
+   "before": [
+    "to hurry, rush"
+   ],
+   "after": [
+    "you hurry"
+   ]
+  },
+  {
+   "word": "cachás",
+   "before": [
+    "to get it"
+   ],
+   "after": [
+    "you get it"
+   ]
+  },
+  {
+   "word": "erizás",
+   "before": [
+    "to bristle"
+   ],
+   "after": [
+    "you bristle"
+   ]
+  },
+  {
+   "word": "meneas",
+   "before": [
+    "to wiggle"
+   ],
+   "after": [
+    "you wiggle"
+   ]
+  },
+  {
+   "word": "tintes",
+   "before": [
+    "to dye"
+   ],
+   "after": [
+    "you dye"
+   ]
+  },
+  {
+   "word": "tramas",
+   "before": [
+    "to weave"
+   ],
+   "after": [
+    "you weave"
+   ]
+  },
+  {
+   "word": "trepes",
+   "before": [
+    "to climb"
+   ],
+   "after": [
+    "you climb"
+   ]
+  },
+  {
+   "word": "amarras",
+   "before": [
+    "to tie"
+   ],
+   "after": [
+    "you tie"
+   ]
+  },
+  {
+   "word": "cotizás",
+   "before": [
+    "to be quoted"
+   ],
+   "after": [
+    "you are quoted"
+   ]
+  },
+  {
+   "word": "enredás",
+   "before": [
+    "to get someone mixed up"
+   ],
+   "after": [
+    "you get someone mixed up"
+   ]
+  },
+  {
+   "word": "enroles",
+   "before": [
+    "to enroll"
+   ],
+   "after": [
+    "you enroll"
+   ]
+  },
+  {
+   "word": "enrolás",
+   "before": [
+    "to enroll"
+   ],
+   "after": [
+    "you enroll"
+   ]
+  },
+  {
+   "word": "entones",
+   "before": [
+    "to sing"
+   ],
+   "after": [
+    "you sing"
+   ]
+  },
+  {
+   "word": "texteas",
+   "before": [
+    "to text"
+   ],
+   "after": [
+    "you text"
+   ]
+  },
+  {
+   "word": "asfixiás",
+   "before": [
+    "to suffocate"
+   ],
+   "after": [
+    "you suffocate"
+   ]
+  },
+  {
+   "word": "encueras",
+   "before": [
+    "to fleece"
+   ],
+   "after": [
+    "you fleece"
+   ]
+  },
+  {
+   "word": "enviciás",
+   "before": [
+    "to addict"
+   ],
+   "after": [
+    "you addict"
+   ]
+  },
+  {
+   "word": "guayamos",
+   "before": [
+    "to grate"
+   ],
+   "after": [
+    "we grate"
+   ]
+  },
+  {
+   "word": "pichabas",
+   "before": [
+    "to treat"
+   ],
+   "after": [
+    "you treated"
+   ]
+  },
+  {
+   "word": "pichamos",
+   "before": [
+    "to fuck"
+   ],
+   "after": [
+    "we fuck"
+   ]
+  },
+  {
+   "word": "roncamos",
+   "before": [
+    "to snore"
+   ],
+   "after": [
+    "we snore"
+   ]
+  },
+  {
+   "word": "trepabas",
+   "before": [
+    "to climb"
+   ],
+   "after": [
+    "you climbed"
+   ]
+  },
+  {
+   "word": "aparentas",
+   "before": [
+    "to pretend, feign, front"
+   ],
+   "after": [
+    "you pretend"
+   ]
+  },
+  {
+   "word": "arrebatás",
+   "before": [
+    "to snatch"
+   ],
+   "after": [
+    "you snatch"
+   ]
+  },
+  {
+   "word": "brincabas",
+   "before": [
+    "to jump"
+   ],
+   "after": [
+    "you jumped"
+   ]
+  },
+  {
+   "word": "encojonas",
+   "before": [
+    "to annoy, anger"
+   ],
+   "after": [
+    "you annoy"
+   ]
+  },
+  {
+   "word": "facilitas",
+   "before": [
+    "to facilitate (to make easier)"
+   ],
+   "after": [
+    "you facilitate (to make easier)"
+   ]
+  },
+  {
+   "word": "sembramos",
+   "before": [
+    "to plant"
+   ],
+   "after": [
+    "we plant"
+   ]
+  },
+  {
+   "word": "atragantás",
+   "before": [
+    "to choke"
+   ],
+   "after": [
+    "you choke"
+   ]
+  },
+  {
+   "word": "arrastramos",
+   "before": [
+    "to drag"
+   ],
+   "after": [
+    "we drag"
+   ]
+  },
+  {
+   "word": "arrebatabas",
+   "before": [
+    "to snatch"
+   ],
+   "after": [
+    "you snatched"
+   ]
+  },
+  {
+   "word": "chingábamos",
+   "before": [
+    "to fuck with"
+   ],
+   "after": [
+    "we fucked with"
+   ]
+  },
+  {
+   "word": "derrumbamos",
+   "before": [
+    "to tear down"
+   ],
+   "after": [
+    "we tear down"
+   ]
+  }
+ ],
+ "rosalia": [
+  {
+   "word": "es",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "he/she is"
+   ]
+  },
+  {
+   "word": "eres",
+   "before": [
+    "to be",
+    "to root for",
+    "being"
+   ],
+   "after": [
+    "you are",
+    "you root for",
+    "being"
+   ]
+  },
+  {
+   "word": "eres",
+   "before": [
+    "to be",
+    "to root for",
+    "being"
+   ],
+   "after": [
+    "you are",
+    "you root for",
+    "being"
+   ]
+  },
+  {
+   "word": "vas",
+   "before": [
+    "to go",
+    "to be"
+   ],
+   "after": [
+    "you go",
+    "you are"
+   ]
+  },
+  {
+   "word": "vamos",
+   "before": [
+    "let's go",
+    "go",
+    "to go"
+   ],
+   "after": [
+    "let's go",
+    "go",
+    "we go"
+   ]
+  },
+  {
+   "word": "has",
+   "before": [
+    "to have",
+    "should"
+   ],
+   "after": [
+    "you have",
+    "you should"
+   ]
+  },
+  {
+   "word": "estás",
+   "before": [
+    "to be",
+    "to be on"
+   ],
+   "after": [
+    "you are",
+    "you are on"
+   ]
+  },
+  {
+   "word": "tienes",
+   "before": [
+    "to have",
+    "to be",
+    "to hold"
+   ],
+   "after": [
+    "you have",
+    "you are",
+    "you hold"
+   ]
+  },
+  {
+   "word": "sabes",
+   "before": [
+    "to know",
+    "to know how",
+    "to taste"
+   ],
+   "after": [
+    "you know",
+    "you know how",
+    "you taste"
+   ]
+  },
+  {
+   "word": "quieres",
+   "before": [
+    "to want"
+   ],
+   "after": [
+    "you want"
+   ]
+  },
+  {
+   "word": "ves",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "you see"
+   ]
+  },
+  {
+   "word": "puedes",
+   "before": [
+    "can"
+   ],
+   "after": [
+    "you can"
+   ]
+  },
+  {
+   "word": "somos",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "we are"
+   ]
+  },
+  {
+   "word": "estamos",
+   "before": [
+    "to be",
+    "to be on"
+   ],
+   "after": [
+    "we are",
+    "we are on"
+   ]
+  },
+  {
+   "word": "das",
+   "before": [
+    "to give",
+    "to yield",
+    "to bear"
+   ],
+   "after": [
+    "you give",
+    "you yield",
+    "you bear"
+   ]
+  },
+  {
+   "word": "ganas",
+   "before": [
+    "desire",
+    "to win"
+   ],
+   "after": [
+    "desire",
+    "you win"
+   ]
+  },
+  {
+   "word": "miras",
+   "before": [
+    "to look at",
+    "to look",
+    "sights"
+   ],
+   "after": [
+    "you look at",
+    "you look",
+    "sights"
+   ]
+  },
+  {
+   "word": "digas",
+   "before": [
+    "to say",
+    "to tell"
+   ],
+   "after": [
+    "you say",
+    "you tell"
+   ]
+  },
+  {
+   "word": "fuimos",
+   "before": [
+    "we went"
+   ],
+   "after": [
+    "we wed went"
+   ]
+  },
+  {
+   "word": "sales",
+   "before": [
+    "to go out",
+    "to leave",
+    "to come out"
+   ],
+   "after": [
+    "you go out",
+    "you leave",
+    "you come out"
+   ]
+  },
+  {
+   "word": "quieras",
+   "before": [
+    "to want",
+    "to love"
+   ],
+   "after": [
+    "you want",
+    "you love"
+   ]
+  },
+  {
+   "word": "vienes",
+   "before": [
+    "to come",
+    "to be"
+   ],
+   "after": [
+    "you come",
+    "you are"
+   ]
+  },
+  {
+   "word": "llamas",
+   "before": [
+    "to call",
+    "flames"
+   ],
+   "after": [
+    "you call",
+    "flames"
+   ]
+  },
+  {
+   "word": "llamas",
+   "before": [
+    "to call",
+    "flames"
+   ],
+   "after": [
+    "you call",
+    "flames"
+   ]
+  },
+  {
+   "word": "quedamos",
+   "before": [
+    "to be left",
+    "to have"
+   ],
+   "after": [
+    "we are left",
+    "we have"
+   ]
+  },
+  {
+   "word": "tenemos",
+   "before": [
+    "to have"
+   ],
+   "after": [
+    "we have"
+   ]
+  },
+  {
+   "word": "haces",
+   "before": [
+    "to do",
+    "to make"
+   ],
+   "after": [
+    "you do",
+    "you make"
+   ]
+  },
+  {
+   "word": "crees",
+   "before": [
+    "to believe",
+    "to think"
+   ],
+   "after": [
+    "you believe",
+    "you think"
+   ]
+  },
+  {
+   "word": "dices",
+   "before": [
+    "to say",
+    "to tell"
+   ],
+   "after": [
+    "you say",
+    "you tell"
+   ]
+  },
+  {
+   "word": "llevas",
+   "before": [
+    "to carry",
+    "to wear"
+   ],
+   "after": [
+    "you carry",
+    "you wear"
+   ]
+  },
+  {
+   "word": "vuelves",
+   "before": [
+    "to come back"
+   ],
+   "after": [
+    "you come back"
+   ]
+  },
+  {
+   "word": "creas",
+   "before": [
+    "to believe",
+    "to think"
+   ],
+   "after": [
+    "you believe",
+    "you think"
+   ]
+  },
+  {
+   "word": "llames",
+   "before": [
+    "to call"
+   ],
+   "after": [
+    "you call"
+   ]
+  },
+  {
+   "word": "esperas",
+   "before": [
+    "to wait",
+    "waits"
+   ],
+   "after": [
+    "you wait",
+    "waits"
+   ]
+  },
+  {
+   "word": "decías",
+   "before": [
+    "to say",
+    "to tell"
+   ],
+   "after": [
+    "you said",
+    "you told"
+   ]
+  },
+  {
+   "word": "piensas",
+   "before": [
+    "to think"
+   ],
+   "after": [
+    "you think"
+   ]
+  },
+  {
+   "word": "querías",
+   "before": [
+    "to want"
+   ],
+   "after": [
+    "you wanted"
+   ]
+  },
+  {
+   "word": "puedas",
+   "before": [
+    "can",
+    "to be able to"
+   ],
+   "after": [
+    "you can",
+    "you are able to"
+   ]
+  },
+  {
+   "word": "hablas",
+   "before": [
+    "to talk"
+   ],
+   "after": [
+    "you talk"
+   ]
+  },
+  {
+   "word": "pones",
+   "before": [
+    "to add"
+   ],
+   "after": [
+    "you add"
+   ]
+  },
+  {
+   "word": "des",
+   "before": [
+    "to give",
+    "to yield"
+   ],
+   "after": [
+    "you give",
+    "you yield"
+   ]
+  },
+  {
+   "word": "pensamos",
+   "before": [
+    "to think"
+   ],
+   "after": [
+    "we think"
+   ]
+  },
+  {
+   "word": "salimos",
+   "before": [
+    "to go out",
+    "to leave"
+   ],
+   "after": [
+    "we go out",
+    "we leave"
+   ]
+  },
+  {
+   "word": "besamos",
+   "before": [
+    "to kiss"
+   ],
+   "after": [
+    "we kiss"
+   ]
+  },
+  {
+   "word": "enamores",
+   "before": [
+    "to make ... fall in love"
+   ],
+   "after": [
+    "you make ... fall in love"
+   ]
+  },
+  {
+   "word": "duras",
+   "before": [
+    "to last"
+   ],
+   "after": [
+    "you last"
+   ]
+  },
+  {
+   "word": "debes",
+   "before": [
+    "to owe"
+   ],
+   "after": [
+    "you owe"
+   ]
+  },
+  {
+   "word": "hagas",
+   "before": [
+    "to do"
+   ],
+   "after": [
+    "you do"
+   ]
+  },
+  {
+   "word": "sabemos",
+   "before": [
+    "to know"
+   ],
+   "after": [
+    "we know"
+   ]
+  },
+  {
+   "word": "entiendes",
+   "before": [
+    "to understand"
+   ],
+   "after": [
+    "you understand"
+   ]
+  },
+  {
+   "word": "tenías",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you were"
+   ]
+  },
+  {
+   "word": "vayas",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you are"
+   ]
+  },
+  {
+   "word": "estés",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you are"
+   ]
+  },
+  {
+   "word": "luces",
+   "before": [
+    "to shine"
+   ],
+   "after": [
+    "you shine"
+   ]
+  },
+  {
+   "word": "apenas",
+   "before": [
+    "to sadden"
+   ],
+   "after": [
+    "you sadden"
+   ]
+  },
+  {
+   "word": "sigues",
+   "before": [
+    "to follow"
+   ],
+   "after": [
+    "you follow"
+   ]
+  },
+  {
+   "word": "llegamos",
+   "before": [
+    "to arrive"
+   ],
+   "after": [
+    "we arrive"
+   ]
+  },
+  {
+   "word": "dejas",
+   "before": [
+    "to let"
+   ],
+   "after": [
+    "you let"
+   ]
+  },
+  {
+   "word": "acuerdas",
+   "before": [
+    "to remind"
+   ],
+   "after": [
+    "you remind"
+   ]
+  },
+  {
+   "word": "mires",
+   "before": [
+    "to look at"
+   ],
+   "after": [
+    "you look at"
+   ]
+  },
+  {
+   "word": "razones",
+   "before": [
+    "to reason"
+   ],
+   "after": [
+    "you reason"
+   ]
+  },
+  {
+   "word": "dejamos",
+   "before": [
+    "to leave"
+   ],
+   "after": [
+    "we leave"
+   ]
+  },
+  {
+   "word": "pasamos",
+   "before": [
+    "to go through"
+   ],
+   "after": [
+    "we go through"
+   ]
+  },
+  {
+   "word": "veas",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "you see"
+   ]
+  },
+  {
+   "word": "traes",
+   "before": [
+    "to bring"
+   ],
+   "after": [
+    "you bring"
+   ]
+  },
+  {
+   "word": "deseas",
+   "before": [
+    "to want"
+   ],
+   "after": [
+    "you want"
+   ]
+  },
+  {
+   "word": "besas",
+   "before": [
+    "to kiss"
+   ],
+   "after": [
+    "you kiss"
+   ]
+  },
+  {
+   "word": "volvemos",
+   "before": [
+    "to come back"
+   ],
+   "after": [
+    "we come back"
+   ]
+  },
+  {
+   "word": "matas",
+   "before": [
+    "to kill"
+   ],
+   "after": [
+    "you kill"
+   ]
+  },
+  {
+   "word": "temas",
+   "before": [
+    "to be afraid of"
+   ],
+   "after": [
+    "you are afraid of"
+   ]
+  },
+  {
+   "word": "niveles",
+   "before": [
+    "to level"
+   ],
+   "after": [
+    "you level"
+   ]
+  },
+  {
+   "word": "olvidas",
+   "before": [
+    "to forget"
+   ],
+   "after": [
+    "you forget"
+   ]
+  },
+  {
+   "word": "pides",
+   "before": [
+    "to ask for"
+   ],
+   "after": [
+    "you ask for"
+   ]
+  },
+  {
+   "word": "esperes",
+   "before": [
+    "to wait"
+   ],
+   "after": [
+    "you wait"
+   ]
+  },
+  {
+   "word": "arreglamos",
+   "before": [
+    "to arrange"
+   ],
+   "after": [
+    "we arrange"
+   ]
+  },
+  {
+   "word": "fumas",
+   "before": [
+    "to smoke"
+   ],
+   "after": [
+    "you smoke"
+   ]
+  },
+  {
+   "word": "mueves",
+   "before": [
+    "to move"
+   ],
+   "after": [
+    "you move"
+   ]
+  }
+ ],
+ "spanish-test-playlist": [
+  {
+   "word": "es",
+   "before": [
+    "to be",
+    "to root for"
+   ],
+   "after": [
+    "he/she is",
+    "he/she roots for"
+   ]
+  },
+  {
+   "word": "estás",
+   "before": [
+    "to be",
+    "to be on",
+    "to be in"
+   ],
+   "after": [
+    "you are",
+    "you are on",
+    "you are in"
+   ]
+  },
+  {
+   "word": "ves",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "you see"
+   ]
+  },
+  {
+   "word": "vamos",
+   "before": [
+    "let's go",
+    "come on",
+    "go",
+    "to go",
+    "to be"
+   ],
+   "after": [
+    "let's go",
+    "come on",
+    "go",
+    "we go",
+    "we are"
+   ]
+  },
+  {
+   "word": "eres",
+   "before": [
+    "to be",
+    "to root for",
+    "being"
+   ],
+   "after": [
+    "you are",
+    "you root for",
+    "being"
+   ]
+  },
+  {
+   "word": "tienes",
+   "before": [
+    "to have",
+    "to have got"
+   ],
+   "after": [
+    "you have",
+    "you have got"
+   ]
+  },
+  {
+   "word": "sabes",
+   "before": [
+    "to know",
+    "to know how"
+   ],
+   "after": [
+    "you know",
+    "you know how"
+   ]
+  },
+  {
+   "word": "estamos",
+   "before": [
+    "to be",
+    "to be on",
+    "to be in"
+   ],
+   "after": [
+    "we are",
+    "we are on",
+    "we are in"
+   ]
+  },
+  {
+   "word": "hicimos",
+   "before": [
+    "to do",
+    "to act"
+   ],
+   "after": [
+    "we did",
+    "we acted"
+   ]
+  },
+  {
+   "word": "somos",
+   "before": [
+    "to be",
+    "to be made of",
+    "to root for"
+   ],
+   "after": [
+    "we are",
+    "we are made of",
+    "we root for"
+   ]
+  },
+  {
+   "word": "quieres",
+   "before": [
+    "to want",
+    "to like",
+    "to try"
+   ],
+   "after": [
+    "you want",
+    "you like",
+    "you try"
+   ]
+  },
+  {
+   "word": "salimos",
+   "before": [
+    "to go out"
+   ],
+   "after": [
+    "we go out"
+   ]
+  },
+  {
+   "word": "fuimos",
+   "before": [
+    "we went",
+    "we were"
+   ],
+   "after": [
+    "we wed went",
+    "we wed were"
+   ]
+  },
+  {
+   "word": "has",
+   "before": [
+    "to have"
+   ],
+   "after": [
+    "you have"
+   ]
+  },
+  {
+   "word": "hacemos",
+   "before": [
+    "to do",
+    "to make"
+   ],
+   "after": [
+    "we do",
+    "we make"
+   ]
+  },
+  {
+   "word": "ganas",
+   "before": [
+    "desire",
+    "to win"
+   ],
+   "after": [
+    "desire",
+    "you win"
+   ]
+  },
+  {
+   "word": "gustas",
+   "before": [
+    "to like"
+   ],
+   "after": [
+    "you like"
+   ]
+  },
+  {
+   "word": "besas",
+   "before": [
+    "to kiss"
+   ],
+   "after": [
+    "you kiss"
+   ]
+  },
+  {
+   "word": "dimos",
+   "before": [
+    "we gave"
+   ],
+   "after": [
+    "we wed gave"
+   ]
+  },
+  {
+   "word": "jugás",
+   "before": [
+    "to play",
+    "to move"
+   ],
+   "after": [
+    "you play",
+    "you move"
+   ]
+  },
+  {
+   "word": "quieras",
+   "before": [
+    "to want"
+   ],
+   "after": [
+    "you want"
+   ]
+  },
+  {
+   "word": "sigues",
+   "before": [
+    "to still be in"
+   ],
+   "after": [
+    "you still be in"
+   ]
+  },
+  {
+   "word": "pones",
+   "before": [
+    "to put"
+   ],
+   "after": [
+    "you put"
+   ]
+  },
+  {
+   "word": "volvemos",
+   "before": [
+    "to come back"
+   ],
+   "after": [
+    "we come back"
+   ]
+  },
+  {
+   "word": "tenemos",
+   "before": [
+    "to have"
+   ],
+   "after": [
+    "we have"
+   ]
+  },
+  {
+   "word": "vas",
+   "before": [
+    "to go",
+    "to be"
+   ],
+   "after": [
+    "you go",
+    "you are"
+   ]
+  },
+  {
+   "word": "haces",
+   "before": [
+    "to do",
+    "to make",
+    "to think"
+   ],
+   "after": [
+    "you do",
+    "you make",
+    "you think"
+   ]
+  },
+  {
+   "word": "dices",
+   "before": [
+    "to tell"
+   ],
+   "after": [
+    "you tell"
+   ]
+  },
+  {
+   "word": "hagas",
+   "before": [
+    "to act"
+   ],
+   "after": [
+    "you act"
+   ]
+  },
+  {
+   "word": "preocupes",
+   "before": [
+    "to worry"
+   ],
+   "after": [
+    "you worry"
+   ]
+  },
+  {
+   "word": "das",
+   "before": [
+    "to give",
+    "to yield"
+   ],
+   "after": [
+    "you give",
+    "you yield"
+   ]
+  },
+  {
+   "word": "estés",
+   "before": [
+    "to be in"
+   ],
+   "after": [
+    "you are in"
+   ]
+  },
+  {
+   "word": "querías",
+   "before": [
+    "to want"
+   ],
+   "after": [
+    "you wanted"
+   ]
+  },
+  {
+   "word": "vienes",
+   "before": [
+    "to come"
+   ],
+   "after": [
+    "you come"
+   ]
+  },
+  {
+   "word": "pareces",
+   "before": [
+    "to look"
+   ],
+   "after": [
+    "you look"
+   ]
+  },
+  {
+   "word": "caemos",
+   "before": [
+    "to fall"
+   ],
+   "after": [
+    "we fall"
+   ]
+  },
+  {
+   "word": "parecemos",
+   "before": [
+    "to look like"
+   ],
+   "after": [
+    "we look like"
+   ]
+  },
+  {
+   "word": "sepas",
+   "before": [
+    "to know"
+   ],
+   "after": [
+    "you know"
+   ]
+  },
+  {
+   "word": "llamas",
+   "before": [
+    "to call"
+   ],
+   "after": [
+    "you call"
+   ]
+  },
+  {
+   "word": "escuchas",
+   "before": [
+    "to hear"
+   ],
+   "after": [
+    "you hear"
+   ]
+  },
+  {
+   "word": "veas",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "you see"
+   ]
+  },
+  {
+   "word": "vengas",
+   "before": [
+    "to come"
+   ],
+   "after": [
+    "you come"
+   ]
+  },
+  {
+   "word": "tomamos",
+   "before": [
+    "to drink"
+   ],
+   "after": [
+    "we drink"
+   ]
+  },
+  {
+   "word": "entramos",
+   "before": [
+    "to enter"
+   ],
+   "after": [
+    "we enter"
+   ]
+  },
+  {
+   "word": "temas",
+   "before": [
+    "to have a mania for"
+   ],
+   "after": [
+    "you have a mania for"
+   ]
+  },
+  {
+   "word": "apagues",
+   "before": [
+    "to switch off"
+   ],
+   "after": [
+    "you switch off"
+   ]
+  },
+  {
+   "word": "niveles",
+   "before": [
+    "to level"
+   ],
+   "after": [
+    "you level"
+   ]
+  },
+  {
+   "word": "prefieres",
+   "before": [
+    "to prefer"
+   ],
+   "after": [
+    "you prefer"
+   ]
+  },
+  {
+   "word": "importes",
+   "before": [
+    "to care"
+   ],
+   "after": [
+    "you care"
+   ]
+  },
+  {
+   "word": "prometes",
+   "before": [
+    "to promise"
+   ],
+   "after": [
+    "you promise"
+   ]
+  },
+  {
+   "word": "pides",
+   "before": [
+    "to ask"
+   ],
+   "after": [
+    "you ask"
+   ]
+  },
+  {
+   "word": "tiras",
+   "before": [
+    "to throw"
+   ],
+   "after": [
+    "you throw"
+   ]
+  },
+  {
+   "word": "insistas",
+   "before": [
+    "to insist"
+   ],
+   "after": [
+    "you insist"
+   ]
+  },
+  {
+   "word": "subimos",
+   "before": [
+    "to go up"
+   ],
+   "after": [
+    "we go up"
+   ]
+  },
+  {
+   "word": "echamos",
+   "before": [
+    "to throw out",
+    "to pour"
+   ],
+   "after": [
+    "we throw out",
+    "we pour"
+   ]
+  },
+  {
+   "word": "bajamos",
+   "before": [
+    "to come down"
+   ],
+   "after": [
+    "we come down"
+   ]
+  },
+  {
+   "word": "muerdes",
+   "before": [
+    "to bite"
+   ],
+   "after": [
+    "you bite"
+   ]
+  },
+  {
+   "word": "rompimos",
+   "before": [
+    "to break"
+   ],
+   "after": [
+    "we broke"
+   ]
+  },
+  {
+   "word": "mezclamos",
+   "before": [
+    "to mix"
+   ],
+   "after": [
+    "we mix"
+   ]
+  },
+  {
+   "word": "enredamos",
+   "before": [
+    "to tangle up"
+   ],
+   "after": [
+    "we tangle up"
+   ]
+  },
+  {
+   "word": "mojás",
+   "before": [
+    "to wet"
+   ],
+   "after": [
+    "you wet"
+   ]
+  },
+  {
+   "word": "andamos",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "we are"
+   ]
+  },
+  {
+   "word": "dejemos",
+   "before": [
+    "to let"
+   ],
+   "after": [
+    "we let"
+   ]
+  },
+  {
+   "word": "mojas",
+   "before": [
+    "to wet"
+   ],
+   "after": [
+    "you wet"
+   ]
+  },
+  {
+   "word": "pasas",
+   "before": [
+    "to pass"
+   ],
+   "after": [
+    "you pass"
+   ]
+  },
+  {
+   "word": "sales",
+   "before": [
+    "to get out"
+   ],
+   "after": [
+    "you get out"
+   ]
+  },
+  {
+   "word": "amas",
+   "before": [
+    "to love"
+   ],
+   "after": [
+    "you love"
+   ]
+  },
+  {
+   "word": "apenas",
+   "before": [
+    "to embarrass"
+   ],
+   "after": [
+    "you embarrass"
+   ]
+  },
+  {
+   "word": "bañes",
+   "before": [
+    "to bathe"
+   ],
+   "after": [
+    "you bathe"
+   ]
+  },
+  {
+   "word": "brillas",
+   "before": [
+    "to sparkle"
+   ],
+   "after": [
+    "you sparkle"
+   ]
+  },
+  {
+   "word": "busques",
+   "before": [
+    "to look for"
+   ],
+   "after": [
+    "you look for"
+   ]
+  },
+  {
+   "word": "cansás",
+   "before": [
+    "to annoy"
+   ],
+   "after": [
+    "you annoy"
+   ]
+  },
+  {
+   "word": "casas",
+   "before": [
+    "to marry"
+   ],
+   "after": [
+    "you marry"
+   ]
+  },
+  {
+   "word": "chingamos",
+   "before": [
+    "to fuck with"
+   ],
+   "after": [
+    "we fuck with"
+   ]
+  },
+  {
+   "word": "comienzas",
+   "before": [
+    "to start"
+   ],
+   "after": [
+    "you start"
+   ]
+  },
+  {
+   "word": "conocemos",
+   "before": [
+    "to know"
+   ],
+   "after": [
+    "we know"
+   ]
+  },
+  {
+   "word": "crees",
+   "before": [
+    "to believe"
+   ],
+   "after": [
+    "you believe"
+   ]
+  },
+  {
+   "word": "decides",
+   "before": [
+    "to decide"
+   ],
+   "after": [
+    "you decide"
+   ]
+  },
+  {
+   "word": "dejas",
+   "before": [
+    "to leave"
+   ],
+   "after": [
+    "you leave"
+   ]
+  },
+  {
+   "word": "des",
+   "before": [
+    "to give"
+   ],
+   "after": [
+    "you give"
+   ]
+  },
+  {
+   "word": "deseas",
+   "before": [
+    "to desire"
+   ],
+   "after": [
+    "you desire"
+   ]
+  },
+  {
+   "word": "digas",
+   "before": [
+    "to say"
+   ],
+   "after": [
+    "you say"
+   ]
+  },
+  {
+   "word": "encuentras",
+   "before": [
+    "to encounter"
+   ],
+   "after": [
+    "you encounter"
+   ]
+  },
+  {
+   "word": "entregas",
+   "before": [
+    "to deliver"
+   ],
+   "after": [
+    "you deliver"
+   ]
+  },
+  {
+   "word": "extrañas",
+   "before": [
+    "to miss"
+   ],
+   "after": [
+    "you miss"
+   ]
+  },
+  {
+   "word": "extrañes",
+   "before": [
+    "to miss"
+   ],
+   "after": [
+    "you miss"
+   ]
+  },
+  {
+   "word": "hagamos",
+   "before": [
+    "to do"
+   ],
+   "after": [
+    "we do"
+   ]
+  },
+  {
+   "word": "hemos",
+   "before": [
+    "to have"
+   ],
+   "after": [
+    "we have"
+   ]
+  },
+  {
+   "word": "llevamos",
+   "before": [
+    "to take"
+   ],
+   "after": [
+    "we take"
+   ]
+  },
+  {
+   "word": "llevas",
+   "before": [
+    "to take"
+   ],
+   "after": [
+    "you take"
+   ]
+  },
+  {
+   "word": "matas",
+   "before": [
+    "to kill"
+   ],
+   "after": [
+    "you kill"
+   ]
+  },
+  {
+   "word": "mejores",
+   "before": [
+    "to enhance"
+   ],
+   "after": [
+    "you enhance"
+   ]
+  },
+  {
+   "word": "olvidas",
+   "before": [
+    "to forget"
+   ],
+   "after": [
+    "you forget"
+   ]
+  },
+  {
+   "word": "pegamos",
+   "before": [
+    "to stick"
+   ],
+   "after": [
+    "we stick"
+   ]
+  },
+  {
+   "word": "pensamos",
+   "before": [
+    "to think"
+   ],
+   "after": [
+    "we think"
+   ]
+  },
+  {
+   "word": "perdemos",
+   "before": [
+    "to lose"
+   ],
+   "after": [
+    "we lose"
+   ]
+  },
+  {
+   "word": "picheas",
+   "before": [
+    "to pitch"
+   ],
+   "after": [
+    "you pitch"
+   ]
+  },
+  {
+   "word": "piensas",
+   "before": [
+    "to think"
+   ],
+   "after": [
+    "you think"
+   ]
+  },
+  {
+   "word": "pierdes",
+   "before": [
+    "to lose"
+   ],
+   "after": [
+    "you lose"
+   ]
+  },
+  {
+   "word": "podemos",
+   "before": [
+    "can"
+   ],
+   "after": [
+    "we can"
+   ]
+  },
+  {
+   "word": "prendes",
+   "before": [
+    "to turn on"
+   ],
+   "after": [
+    "you turn on"
+   ]
+  },
+  {
+   "word": "pruebas",
+   "before": [
+    "to try"
+   ],
+   "after": [
+    "you try"
+   ]
+  },
+  {
+   "word": "resistas",
+   "before": [
+    "to resist"
+   ],
+   "after": [
+    "you resist"
+   ]
+  },
+  {
+   "word": "rodeás",
+   "before": [
+    "to surround"
+   ],
+   "after": [
+    "you surround"
+   ]
+  },
+  {
+   "word": "sabemos",
+   "before": [
+    "to know"
+   ],
+   "after": [
+    "we know"
+   ]
+  },
+  {
+   "word": "serás",
+   "before": [
+    "to root for"
+   ],
+   "after": [
+    "you will root for"
+   ]
+  },
+  {
+   "word": "sientes",
+   "before": [
+    "to feel"
+   ],
+   "after": [
+    "you feel"
+   ]
+  },
+  {
+   "word": "sudas",
+   "before": [
+    "to sweat"
+   ],
+   "after": [
+    "you sweat"
+   ]
+  },
+  {
+   "word": "tengas",
+   "before": [
+    "to have"
+   ],
+   "after": [
+    "you have"
+   ]
+  },
+  {
+   "word": "tenías",
+   "before": [
+    "to have"
+   ],
+   "after": [
+    "you had"
+   ]
+  },
+  {
+   "word": "vemos",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "we see"
+   ]
+  }
+ ],
+ "young-miko": [
+  {
+   "word": "es",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "he/she is"
+   ]
+  },
+  {
+   "word": "vamos",
+   "before": [
+    "let's go",
+    "come on",
+    "go",
+    "to go",
+    "to be"
+   ],
+   "after": [
+    "let's go",
+    "come on",
+    "go",
+    "we go",
+    "we are"
+   ]
+  },
+  {
+   "word": "estás",
+   "before": [
+    "to be",
+    "to be on",
+    "to be in"
+   ],
+   "after": [
+    "you are",
+    "you are on",
+    "you are in"
+   ]
+  },
+  {
+   "word": "tienes",
+   "before": [
+    "to have",
+    "to have got",
+    "to have on",
+    "to be"
+   ],
+   "after": [
+    "you have",
+    "you have got",
+    "you have on",
+    "you are"
+   ]
+  },
+  {
+   "word": "eres",
+   "before": [
+    "to be",
+    "to root for",
+    "person"
+   ],
+   "after": [
+    "you are",
+    "you root for",
+    "person"
+   ]
+  },
+  {
+   "word": "sabes",
+   "before": [
+    "to know"
+   ],
+   "after": [
+    "you know"
+   ]
+  },
+  {
+   "word": "quieres",
+   "before": [
+    "to want",
+    "to love",
+    "to mean",
+    "to try"
+   ],
+   "after": [
+    "you want",
+    "you love",
+    "you mean",
+    "you try"
+   ]
+  },
+  {
+   "word": "vas",
+   "before": [
+    "to go"
+   ],
+   "after": [
+    "you go"
+   ]
+  },
+  {
+   "word": "estamos",
+   "before": [
+    "to be",
+    "to be on",
+    "to be in",
+    "to be working as"
+   ],
+   "after": [
+    "we are",
+    "we are on",
+    "we are in",
+    "we are working as"
+   ]
+  },
+  {
+   "word": "ganas",
+   "before": [
+    "desire",
+    "to beat"
+   ],
+   "after": [
+    "desire",
+    "you beat"
+   ]
+  },
+  {
+   "word": "ves",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "you see"
+   ]
+  },
+  {
+   "word": "somos",
+   "before": [
+    "to be",
+    "being"
+   ],
+   "after": [
+    "we are",
+    "being"
+   ]
+  },
+  {
+   "word": "hacemos",
+   "before": [
+    "to do",
+    "to make"
+   ],
+   "after": [
+    "we do",
+    "we make"
+   ]
+  },
+  {
+   "word": "pones",
+   "before": [
+    "to put",
+    "to add",
+    "to put on",
+    "to give",
+    "get"
+   ],
+   "after": [
+    "you put",
+    "you add",
+    "you put on",
+    "you give",
+    "get"
+   ]
+  },
+  {
+   "word": "haces",
+   "before": [
+    "to do",
+    "to make"
+   ],
+   "after": [
+    "you do",
+    "you make"
+   ]
+  },
+  {
+   "word": "dices",
+   "before": [
+    "to say",
+    "to tell"
+   ],
+   "after": [
+    "you say",
+    "you tell"
+   ]
+  },
+  {
+   "word": "hagas",
+   "before": [
+    "to do",
+    "to act"
+   ],
+   "after": [
+    "you do",
+    "you act"
+   ]
+  },
+  {
+   "word": "luces",
+   "before": [
+    "to shine",
+    "to look",
+    "to show"
+   ],
+   "after": [
+    "you shine",
+    "you look",
+    "you show"
+   ]
+  },
+  {
+   "word": "puedes",
+   "before": [
+    "can"
+   ],
+   "after": [
+    "you can"
+   ]
+  },
+  {
+   "word": "has",
+   "before": [
+    "to have"
+   ],
+   "after": [
+    "you have"
+   ]
+  },
+  {
+   "word": "vayas",
+   "before": [
+    "to go"
+   ],
+   "after": [
+    "you go"
+   ]
+  },
+  {
+   "word": "andamos",
+   "before": [
+    "to take",
+    "to go",
+    "to be"
+   ],
+   "after": [
+    "we take",
+    "we go",
+    "we are"
+   ]
+  },
+  {
+   "word": "salimos",
+   "before": [
+    "to go out",
+    "to leave",
+    "to come out"
+   ],
+   "after": [
+    "we go out",
+    "we leave",
+    "we come out"
+   ]
+  },
+  {
+   "word": "tiras",
+   "before": [
+    "to throw"
+   ],
+   "after": [
+    "you throw"
+   ]
+  },
+  {
+   "word": "quieras",
+   "before": [
+    "to want",
+    "to love"
+   ],
+   "after": [
+    "you want",
+    "you love"
+   ]
+  },
+  {
+   "word": "sientes",
+   "before": [
+    "to feel",
+    "to sit"
+   ],
+   "after": [
+    "you feel",
+    "you sit"
+   ]
+  },
+  {
+   "word": "llegamos",
+   "before": [
+    "to arrive",
+    "to get",
+    "to get here"
+   ],
+   "after": [
+    "we arrive",
+    "we get",
+    "we get here"
+   ]
+  },
+  {
+   "word": "tenemos",
+   "before": [
+    "to have"
+   ],
+   "after": [
+    "we have"
+   ]
+  },
+  {
+   "word": "piensas",
+   "before": [
+    "to think"
+   ],
+   "after": [
+    "you think"
+   ]
+  },
+  {
+   "word": "olvides",
+   "before": [
+    "to forget"
+   ],
+   "after": [
+    "you forget"
+   ]
+  },
+  {
+   "word": "llegas",
+   "before": [
+    "to be here",
+    "to be there"
+   ],
+   "after": [
+    "you are here",
+    "you are there"
+   ]
+  },
+  {
+   "word": "andas",
+   "before": [
+    "to go",
+    "to be"
+   ],
+   "after": [
+    "you go",
+    "you are"
+   ]
+  },
+  {
+   "word": "matamos",
+   "before": [
+    "to kill"
+   ],
+   "after": [
+    "we kill"
+   ]
+  },
+  {
+   "word": "volvías",
+   "before": [
+    "to turn"
+   ],
+   "after": [
+    "you turned"
+   ]
+  },
+  {
+   "word": "vemos",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "we see"
+   ]
+  },
+  {
+   "word": "queremos",
+   "before": [
+    "to want"
+   ],
+   "after": [
+    "we want"
+   ]
+  },
+  {
+   "word": "das",
+   "before": [
+    "to give"
+   ],
+   "after": [
+    "you give"
+   ]
+  },
+  {
+   "word": "hicimos",
+   "before": [
+    "to do",
+    "to make"
+   ],
+   "after": [
+    "we did",
+    "we made"
+   ]
+  },
+  {
+   "word": "vienes",
+   "before": [
+    "to come"
+   ],
+   "after": [
+    "you come"
+   ]
+  },
+  {
+   "word": "enseñes",
+   "before": [
+    "to teach",
+    "to show"
+   ],
+   "after": [
+    "you teach",
+    "you show"
+   ]
+  },
+  {
+   "word": "sigues",
+   "before": [
+    "to follow",
+    "to continue",
+    "to still be in"
+   ],
+   "after": [
+    "you follow",
+    "you continue",
+    "you still be in"
+   ]
+  },
+  {
+   "word": "llamas",
+   "before": [
+    "to call",
+    "to phone"
+   ],
+   "after": [
+    "you call",
+    "you phone"
+   ]
+  },
+  {
+   "word": "seguimos",
+   "before": [
+    "to continue"
+   ],
+   "after": [
+    "we continue"
+   ]
+  },
+  {
+   "word": "des",
+   "before": [
+    "to give"
+   ],
+   "after": [
+    "you give"
+   ]
+  },
+  {
+   "word": "fuimos",
+   "before": [
+    "we went"
+   ],
+   "after": [
+    "we wed went"
+   ]
+  },
+  {
+   "word": "empezamos",
+   "before": [
+    "to start",
+    "to begin"
+   ],
+   "after": [
+    "we start",
+    "we begin"
+   ]
+  },
+  {
+   "word": "pierdes",
+   "before": [
+    "to lose"
+   ],
+   "after": [
+    "you lose"
+   ]
+  },
+  {
+   "word": "volvemos",
+   "before": [
+    "to come back"
+   ],
+   "after": [
+    "we come back"
+   ]
+  },
+  {
+   "word": "terminamos",
+   "before": [
+    "to end",
+    "to end up"
+   ],
+   "after": [
+    "we end",
+    "we end up"
+   ]
+  },
+  {
+   "word": "usas",
+   "before": [
+    "to use",
+    "to wear"
+   ],
+   "after": [
+    "you use",
+    "you wear"
+   ]
+  },
+  {
+   "word": "jodas",
+   "before": [
+    "to fuck with",
+    "to piss off"
+   ],
+   "after": [
+    "you fuck with",
+    "you piss off"
+   ]
+  },
+  {
+   "word": "estabas",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you were"
+   ]
+  },
+  {
+   "word": "digas",
+   "before": [
+    "to say",
+    "to tell"
+   ],
+   "after": [
+    "you say",
+    "you tell"
+   ]
+  },
+  {
+   "word": "conoces",
+   "before": [
+    "to know"
+   ],
+   "after": [
+    "you know"
+   ]
+  },
+  {
+   "word": "hables",
+   "before": [
+    "to talk"
+   ],
+   "after": [
+    "you talk"
+   ]
+  },
+  {
+   "word": "pasamos",
+   "before": [
+    "to pass",
+    "to spend"
+   ],
+   "after": [
+    "we pass",
+    "we spend"
+   ]
+  },
+  {
+   "word": "vengas",
+   "before": [
+    "to come",
+    "to be"
+   ],
+   "after": [
+    "you come",
+    "you are"
+   ]
+  },
+  {
+   "word": "vuelves",
+   "before": [
+    "to come back"
+   ],
+   "after": [
+    "you come back"
+   ]
+  },
+  {
+   "word": "damos",
+   "before": [
+    "to give"
+   ],
+   "after": [
+    "we give"
+   ]
+  },
+  {
+   "word": "compartimos",
+   "before": [
+    "to share"
+   ],
+   "after": [
+    "we share"
+   ]
+  },
+  {
+   "word": "mueves",
+   "before": [
+    "to move"
+   ],
+   "after": [
+    "you move"
+   ]
+  },
+  {
+   "word": "tiendas",
+   "before": [
+    "to lay out",
+    "to set"
+   ],
+   "after": [
+    "you lay out",
+    "you set"
+   ]
+  },
+  {
+   "word": "prendemos",
+   "before": [
+    "to light",
+    "to turn on"
+   ],
+   "after": [
+    "we light",
+    "we turn on"
+   ]
+  },
+  {
+   "word": "mamas",
+   "before": [
+    "to feed"
+   ],
+   "after": [
+    "you feed"
+   ]
+  },
+  {
+   "word": "crees",
+   "before": [
+    "to think"
+   ],
+   "after": [
+    "you think"
+   ]
+  },
+  {
+   "word": "debes",
+   "before": [
+    "must"
+   ],
+   "after": [
+    "you must"
+   ]
+  },
+  {
+   "word": "perdías",
+   "before": [
+    "to lose"
+   ],
+   "after": [
+    "you lost"
+   ]
+  },
+  {
+   "word": "entiendes",
+   "before": [
+    "to understand"
+   ],
+   "after": [
+    "you understand"
+   ]
+  },
+  {
+   "word": "seas",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you are"
+   ]
+  },
+  {
+   "word": "estés",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you are"
+   ]
+  },
+  {
+   "word": "querías",
+   "before": [
+    "to want",
+    "to mean"
+   ],
+   "after": [
+    "you wanted",
+    "you meaned"
+   ]
+  },
+  {
+   "word": "dejes",
+   "before": [
+    "to leave"
+   ],
+   "after": [
+    "you leave"
+   ]
+  },
+  {
+   "word": "leas",
+   "before": [
+    "to read"
+   ],
+   "after": [
+    "you read"
+   ]
+  },
+  {
+   "word": "hablas",
+   "before": [
+    "to speak"
+   ],
+   "after": [
+    "you speak"
+   ]
+  },
+  {
+   "word": "dejas",
+   "before": [
+    "to leave"
+   ],
+   "after": [
+    "you leave"
+   ]
+  },
+  {
+   "word": "éramos",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "we were"
+   ]
+  },
+  {
+   "word": "partes",
+   "before": [
+    "to leave"
+   ],
+   "after": [
+    "you leave"
+   ]
+  },
+  {
+   "word": "vuelvas",
+   "before": [
+    "to come back"
+   ],
+   "after": [
+    "you come back"
+   ]
+  },
+  {
+   "word": "llevamos",
+   "before": [
+    "to take"
+   ],
+   "after": [
+    "we take"
+   ]
+  },
+  {
+   "word": "dejamos",
+   "before": [
+    "to leave"
+   ],
+   "after": [
+    "we leave"
+   ]
+  },
+  {
+   "word": "quedamos",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "we are"
+   ]
+  },
+  {
+   "word": "buscas",
+   "before": [
+    "you're looking for"
+   ],
+   "after": [
+    "you you're looking for"
+   ]
+  },
+  {
+   "word": "pienses",
+   "before": [
+    "to think"
+   ],
+   "after": [
+    "you think"
+   ]
+  },
+  {
+   "word": "miras",
+   "before": [
+    "to look at",
+    "to look"
+   ],
+   "after": [
+    "you look at",
+    "you look"
+   ]
+  },
+  {
+   "word": "traes",
+   "before": [
+    "to bring",
+    "to cause"
+   ],
+   "after": [
+    "you bring",
+    "you cause"
+   ]
+  },
+  {
+   "word": "llames",
+   "before": [
+    "to call"
+   ],
+   "after": [
+    "you call"
+   ]
+  },
+  {
+   "word": "pegues",
+   "before": [
+    "to hit"
+   ],
+   "after": [
+    "you hit"
+   ]
+  },
+  {
+   "word": "pegas",
+   "before": [
+    "to hit"
+   ],
+   "after": [
+    "you hit"
+   ]
+  },
+  {
+   "word": "toques",
+   "before": [
+    "to touch"
+   ],
+   "after": [
+    "you touch"
+   ]
+  },
+  {
+   "word": "quedes",
+   "before": [
+    "to remain"
+   ],
+   "after": [
+    "you remain"
+   ]
+  },
+  {
+   "word": "temas",
+   "before": [
+    "to be obsessed with"
+   ],
+   "after": [
+    "you are obsessed with"
+   ]
+  },
+  {
+   "word": "montas",
+   "before": [
+    "to mount",
+    "to put on"
+   ],
+   "after": [
+    "you mount",
+    "you put on"
+   ]
+  },
+  {
+   "word": "tardes",
+   "before": [
+    "to take too long",
+    "late"
+   ],
+   "after": [
+    "you take too long",
+    "late"
+   ]
+  },
+  {
+   "word": "usamos",
+   "before": [
+    "to use"
+   ],
+   "after": [
+    "we use"
+   ]
+  },
+  {
+   "word": "decías",
+   "before": [
+    "to tell"
+   ],
+   "after": [
+    "you told"
+   ]
+  },
+  {
+   "word": "dimos",
+   "before": [
+    "we gave"
+   ],
+   "after": [
+    "we wed gave"
+   ]
+  },
+  {
+   "word": "pides",
+   "before": [
+    "to request",
+    "to demand"
+   ],
+   "after": [
+    "you request",
+    "you demand"
+   ]
+  },
+  {
+   "word": "pasas",
+   "before": [
+    "to happen"
+   ],
+   "after": [
+    "you happen"
+   ]
+  },
+  {
+   "word": "peleamos",
+   "before": [
+    "to fight",
+    "to argue"
+   ],
+   "after": [
+    "we fight",
+    "we argue"
+   ]
+  },
+  {
+   "word": "quitas",
+   "before": [
+    "to take away",
+    "to take"
+   ],
+   "after": [
+    "you take away",
+    "you take"
+   ]
+  },
+  {
+   "word": "subimos",
+   "before": [
+    "to go up",
+    "to raise"
+   ],
+   "after": [
+    "we go up",
+    "we raise"
+   ]
+  },
+  {
+   "word": "bailas",
+   "before": [
+    "to dance"
+   ],
+   "after": [
+    "you dance"
+   ]
+  },
+  {
+   "word": "pillamos",
+   "before": [
+    "to catch"
+   ],
+   "after": [
+    "we catch"
+   ]
+  },
+  {
+   "word": "bajes",
+   "before": [
+    "to come down",
+    "to drop"
+   ],
+   "after": [
+    "you come down",
+    "you drop"
+   ]
+  },
+  {
+   "word": "prendías",
+   "before": [
+    "to light"
+   ],
+   "after": [
+    "you lighted"
+   ]
+  },
+  {
+   "word": "prendíamos",
+   "before": [
+    "to catch"
+   ],
+   "after": [
+    "we caught"
+   ]
+  },
+  {
+   "word": "chingas",
+   "before": [
+    "to fuck with",
+    "pain in the butts"
+   ],
+   "after": [
+    "you fuck with",
+    "pain in the butts"
+   ]
+  },
+  {
+   "word": "apliques",
+   "before": [
+    "to apply"
+   ],
+   "after": [
+    "you apply"
+   ]
+  },
+  {
+   "word": "picheamos",
+   "before": [
+    "to pitch",
+    "to ignore"
+   ],
+   "after": [
+    "we pitch",
+    "we ignore"
+   ]
+  },
+  {
+   "word": "enredás",
+   "before": [
+    "to tangle up"
+   ],
+   "after": [
+    "you tangle up"
+   ]
+  },
+  {
+   "word": "podemos",
+   "before": [
+    "can"
+   ],
+   "after": [
+    "we can"
+   ]
+  },
+  {
+   "word": "dejás",
+   "before": [
+    "to leave"
+   ],
+   "after": [
+    "you leave"
+   ]
+  },
+  {
+   "word": "hemos",
+   "before": [
+    "to have"
+   ],
+   "after": [
+    "we have"
+   ]
+  },
+  {
+   "word": "venías",
+   "before": [
+    "to come"
+   ],
+   "after": [
+    "you came"
+   ]
+  },
+  {
+   "word": "sabemos",
+   "before": [
+    "to know"
+   ],
+   "after": [
+    "we know"
+   ]
+  },
+  {
+   "word": "eras",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you were"
+   ]
+  },
+  {
+   "word": "tenías",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you were"
+   ]
+  },
+  {
+   "word": "tengas",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you are"
+   ]
+  },
+  {
+   "word": "terminábamos",
+   "before": [
+    "to end up"
+   ],
+   "after": [
+    "we ended up"
+   ]
+  },
+  {
+   "word": "salábamos",
+   "before": [
+    "to ruin"
+   ],
+   "after": [
+    "we ruined"
+   ]
+  },
+  {
+   "word": "veamos",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "we see"
+   ]
+  },
+  {
+   "word": "encontramos",
+   "before": [
+    "to find"
+   ],
+   "after": [
+    "we find"
+   ]
+  },
+  {
+   "word": "peleemos",
+   "before": [
+    "to fight"
+   ],
+   "after": [
+    "we fight"
+   ]
+  },
+  {
+   "word": "hablamos",
+   "before": [
+    "to talk"
+   ],
+   "after": [
+    "we talk"
+   ]
+  },
+  {
+   "word": "expliques",
+   "before": [
+    "to explain"
+   ],
+   "after": [
+    "you explain"
+   ]
+  },
+  {
+   "word": "escribas",
+   "before": [
+    "to write"
+   ],
+   "after": [
+    "you write"
+   ]
+  },
+  {
+   "word": "llevas",
+   "before": [
+    "to take"
+   ],
+   "after": [
+    "you take"
+   ]
+  },
+  {
+   "word": "pareces",
+   "before": [
+    "to seem"
+   ],
+   "after": [
+    "you seem"
+   ]
+  },
+  {
+   "word": "escapas",
+   "before": [
+    "to escape"
+   ],
+   "after": [
+    "you escape"
+   ]
+  },
+  {
+   "word": "corremos",
+   "before": [
+    "to run"
+   ],
+   "after": [
+    "we run"
+   ]
+  },
+  {
+   "word": "olvidabas",
+   "before": [
+    "to forget"
+   ],
+   "after": [
+    "you forgot"
+   ]
+  },
+  {
+   "word": "ibas",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "you were"
+   ]
+  },
+  {
+   "word": "jodes",
+   "before": [
+    "to fuck with"
+   ],
+   "after": [
+    "you fuck with"
+   ]
+  },
+  {
+   "word": "vives",
+   "before": [
+    "to live"
+   ],
+   "after": [
+    "you live"
+   ]
+  },
+  {
+   "word": "fumamos",
+   "before": [
+    "to smoke"
+   ],
+   "after": [
+    "we smoke"
+   ]
+  },
+  {
+   "word": "quedas",
+   "before": [
+    "to be left"
+   ],
+   "after": [
+    "you are left"
+   ]
+  },
+  {
+   "word": "vimos",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "we saw"
+   ]
+  },
+  {
+   "word": "andábamos",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "we were"
+   ]
+  },
+  {
+   "word": "envíes",
+   "before": [
+    "to send"
+   ],
+   "after": [
+    "you send"
+   ]
+  },
+  {
+   "word": "estemos",
+   "before": [
+    "to be"
+   ],
+   "after": [
+    "we are"
+   ]
+  },
+  {
+   "word": "veas",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "you see"
+   ]
+  },
+  {
+   "word": "cumples",
+   "before": [
+    "to carry out"
+   ],
+   "after": [
+    "you carry out"
+   ]
+  },
+  {
+   "word": "cansas",
+   "before": [
+    "to be tiring"
+   ],
+   "after": [
+    "you are tiring"
+   ]
+  },
+  {
+   "word": "cansás",
+   "before": [
+    "to be tiring"
+   ],
+   "after": [
+    "you are tiring"
+   ]
+  },
+  {
+   "word": "tiramos",
+   "before": [
+    "to throw"
+   ],
+   "after": [
+    "we throw"
+   ]
+  },
+  {
+   "word": "creas",
+   "before": [
+    "to believe"
+   ],
+   "after": [
+    "you believe"
+   ]
+  },
+  {
+   "word": "gustas",
+   "before": [
+    "to like"
+   ],
+   "after": [
+    "you like"
+   ]
+  },
+  {
+   "word": "pongas",
+   "before": [
+    "to put"
+   ],
+   "after": [
+    "you put"
+   ]
+  },
+  {
+   "word": "convertimos",
+   "before": [
+    "to turn into"
+   ],
+   "after": [
+    "we turn into"
+   ]
+  },
+  {
+   "word": "vinimos",
+   "before": [
+    "to come"
+   ],
+   "after": [
+    "we came"
+   ]
+  },
+  {
+   "word": "amaneces",
+   "before": [
+    "to wake up"
+   ],
+   "after": [
+    "you wake up"
+   ]
+  },
+  {
+   "word": "besamos",
+   "before": [
+    "to kiss"
+   ],
+   "after": [
+    "we kiss"
+   ]
+  },
+  {
+   "word": "pegamos",
+   "before": [
+    "to hit"
+   ],
+   "after": [
+    "we hit"
+   ]
+  },
+  {
+   "word": "sales",
+   "before": [
+    "to leave"
+   ],
+   "after": [
+    "you leave"
+   ]
+  },
+  {
+   "word": "mandas",
+   "before": [
+    "to command"
+   ],
+   "after": [
+    "you command"
+   ]
+  },
+  {
+   "word": "crecías",
+   "before": [
+    "to grow"
+   ],
+   "after": [
+    "you grew"
+   ]
+  },
+  {
+   "word": "entramos",
+   "before": [
+    "to enter"
+   ],
+   "after": [
+    "we enter"
+   ]
+  },
+  {
+   "word": "tomas",
+   "before": [
+    "to take"
+   ],
+   "after": [
+    "you take"
+   ]
+  },
+  {
+   "word": "tumbamos",
+   "before": [
+    "to knock down"
+   ],
+   "after": [
+    "we knock down"
+   ]
+  },
+  {
+   "word": "enamorás",
+   "before": [
+    "to fall in love"
+   ],
+   "after": [
+    "you fall in love"
+   ]
+  },
+  {
+   "word": "montamos",
+   "before": [
+    "to put on"
+   ],
+   "after": [
+    "we put on"
+   ]
+  },
+  {
+   "word": "mereces",
+   "before": [
+    "to deserve"
+   ],
+   "after": [
+    "you deserve"
+   ]
+  },
+  {
+   "word": "salgas",
+   "before": [
+    "to come out"
+   ],
+   "after": [
+    "you come out"
+   ]
+  },
+  {
+   "word": "callamos",
+   "before": [
+    "to keep quiet"
+   ],
+   "after": [
+    "we keep quiet"
+   ]
+  },
+  {
+   "word": "imaginas",
+   "before": [
+    "to imagine"
+   ],
+   "after": [
+    "you imagine"
+   ]
+  },
+  {
+   "word": "picás",
+   "before": [
+    "to sting"
+   ],
+   "after": [
+    "you sting"
+   ]
+  },
+  {
+   "word": "supieras",
+   "before": [
+    "to know"
+   ],
+   "after": [
+    "you knew"
+   ]
+  },
+  {
+   "word": "contado",
+   "before": [
+    "to count"
+   ],
+   "after": [
+    "counted"
+   ]
+  },
+  {
+   "word": "niveles",
+   "before": [
+    "to level"
+   ],
+   "after": [
+    "you level"
+   ]
+  },
+  {
+   "word": "notas",
+   "before": [
+    "to feel"
+   ],
+   "after": [
+    "you feel"
+   ]
+  },
+  {
+   "word": "pierdas",
+   "before": [
+    "to lose"
+   ],
+   "after": [
+    "you lose"
+   ]
+  },
+  {
+   "word": "prefieres",
+   "before": [
+    "to prefer"
+   ],
+   "after": [
+    "you prefer"
+   ]
+  },
+  {
+   "word": "viajes",
+   "before": [
+    "to travel"
+   ],
+   "after": [
+    "you travel"
+   ]
+  },
+  {
+   "word": "metes",
+   "before": [
+    "to get"
+   ],
+   "after": [
+    "you get"
+   ]
+  },
+  {
+   "word": "vistes",
+   "before": [
+    "to cover"
+   ],
+   "after": [
+    "you cover"
+   ]
+  },
+  {
+   "word": "botas",
+   "before": [
+    "to kick out"
+   ],
+   "after": [
+    "you kick out"
+   ]
+  },
+  {
+   "word": "caes",
+   "before": [
+    "to fall"
+   ],
+   "after": [
+    "you fall"
+   ]
+  },
+  {
+   "word": "llenamos",
+   "before": [
+    "to fill"
+   ],
+   "after": [
+    "we fill"
+   ]
+  },
+  {
+   "word": "tocas",
+   "before": [
+    "to knock"
+   ],
+   "after": [
+    "you knock"
+   ]
+  },
+  {
+   "word": "castigás",
+   "before": [
+    "to punish"
+   ],
+   "after": [
+    "you punish"
+   ]
+  },
+  {
+   "word": "gastamos",
+   "before": [
+    "to spend"
+   ],
+   "after": [
+    "we spend"
+   ]
+  },
+  {
+   "word": "sacamos",
+   "before": [
+    "to take out"
+   ],
+   "after": [
+    "we take out"
+   ]
+  },
+  {
+   "word": "creías",
+   "before": [
+    "to believe"
+   ],
+   "after": [
+    "you believed"
+   ]
+  },
+  {
+   "word": "entrenás",
+   "before": [
+    "to train"
+   ],
+   "after": [
+    "you train"
+   ]
+  },
+  {
+   "word": "mojes",
+   "before": [
+    "to get wet"
+   ],
+   "after": [
+    "you get wet"
+   ]
+  },
+  {
+   "word": "sueltas",
+   "before": [
+    "to put down"
+   ],
+   "after": [
+    "you put down"
+   ]
+  },
+  {
+   "word": "borramos",
+   "before": [
+    "to delete"
+   ],
+   "after": [
+    "we delete"
+   ]
+  },
+  {
+   "word": "duramos",
+   "before": [
+    "to last"
+   ],
+   "after": [
+    "we last"
+   ]
+  },
+  {
+   "word": "grabemos",
+   "before": [
+    "to record"
+   ],
+   "after": [
+    "we record"
+   ]
+  },
+  {
+   "word": "sientas",
+   "before": [
+    "to feel"
+   ],
+   "after": [
+    "you feel"
+   ]
+  },
+  {
+   "word": "sacas",
+   "before": [
+    "to take out"
+   ],
+   "after": [
+    "you take out"
+   ]
+  },
+  {
+   "word": "comunicamos",
+   "before": [
+    "to communicate"
+   ],
+   "after": [
+    "we communicate"
+   ]
+  },
+  {
+   "word": "escribes",
+   "before": [
+    "you write"
+   ],
+   "after": [
+    "you you write"
+   ]
+  },
+  {
+   "word": "grites",
+   "before": [
+    "to yell"
+   ],
+   "after": [
+    "you yell"
+   ]
+  },
+  {
+   "word": "luzcas",
+   "before": [
+    "to shine"
+   ],
+   "after": [
+    "you shine"
+   ]
+  },
+  {
+   "word": "bajas",
+   "before": [
+    "to go down"
+   ],
+   "after": [
+    "you go down"
+   ]
+  },
+  {
+   "word": "arrancamos",
+   "before": [
+    "to pull up"
+   ],
+   "after": [
+    "we pull up"
+   ]
+  },
+  {
+   "word": "envolvemos",
+   "before": [
+    "to envelop"
+   ],
+   "after": [
+    "we envelop"
+   ]
+  },
+  {
+   "word": "finas",
+   "before": [
+    "to pass away"
+   ],
+   "after": [
+    "you pass away"
+   ]
+  },
+  {
+   "word": "juntamos",
+   "before": [
+    "to get together"
+   ],
+   "after": [
+    "we get together"
+   ]
+  },
+  {
+   "word": "vieras",
+   "before": [
+    "to see"
+   ],
+   "after": [
+    "you saw"
+   ]
+  },
+  {
+   "word": "ahogamos",
+   "before": [
+    "to drown"
+   ],
+   "after": [
+    "we drown"
+   ]
+  },
+  {
+   "word": "armamos",
+   "before": [
+    "to put together"
+   ],
+   "after": [
+    "we put together"
+   ]
+  },
+  {
+   "word": "bailamos",
+   "before": [
+    "to dance"
+   ],
+   "after": [
+    "we dance"
+   ]
+  },
+  {
+   "word": "callas",
+   "before": [
+    "to keep quiet about"
+   ],
+   "after": [
+    "you keep quiet about"
+   ]
+  },
+  {
+   "word": "cerramos",
+   "before": [
+    "to close"
+   ],
+   "after": [
+    "we close"
+   ]
+  },
+  {
+   "word": "eches",
+   "before": [
+    "to throw out"
+   ],
+   "after": [
+    "you throw out"
+   ]
+  },
+  {
+   "word": "pidas",
+   "before": [
+    "to ask"
+   ],
+   "after": [
+    "you ask"
+   ]
+  },
+  {
+   "word": "cortas",
+   "before": [
+    "to cut"
+   ],
+   "after": [
+    "you cut"
+   ]
+  },
+  {
+   "word": "bajamos",
+   "before": [
+    "to go down"
+   ],
+   "after": [
+    "we go down"
+   ]
+  },
+  {
+   "word": "conectamos",
+   "before": [
+    "to connect"
+   ],
+   "after": [
+    "we connect"
+   ]
+  },
+  {
+   "word": "contamos",
+   "before": [
+    "to tell"
+   ],
+   "after": [
+    "we tell"
+   ]
+  },
+  {
+   "word": "desesperás",
+   "before": [
+    "to despair"
+   ],
+   "after": [
+    "you despair"
+   ]
+  },
+  {
+   "word": "muerdes",
+   "before": [
+    "to bite"
+   ],
+   "after": [
+    "you bite"
+   ]
+  },
+  {
+   "word": "terminas",
+   "before": [
+    "to end"
+   ],
+   "after": [
+    "you end"
+   ]
+  },
+  {
+   "word": "frenamos",
+   "before": [
+    "to brake"
+   ],
+   "after": [
+    "we brake"
+   ]
+  },
+  {
+   "word": "bañás",
+   "before": [
+    "to bathe"
+   ],
+   "after": [
+    "you bathe"
+   ]
+  },
+  {
+   "word": "pegás",
+   "before": [
+    "to stick"
+   ],
+   "after": [
+    "you stick"
+   ]
+  },
+  {
+   "word": "babeás",
+   "before": [
+    "to drool"
+   ],
+   "after": [
+    "you drool"
+   ]
+  },
+  {
+   "word": "elevás",
+   "before": [
+    "to make higher"
+   ],
+   "after": [
+    "you make higher"
+   ]
+  },
+  {
+   "word": "forrás",
+   "before": [
+    "to cover"
+   ],
+   "after": [
+    "you cover"
+   ]
+  },
+  {
+   "word": "roncas",
+   "before": [
+    "to snore"
+   ],
+   "after": [
+    "you snore"
+   ]
+  },
+  {
+   "word": "amarras",
+   "before": [
+    "to tie up"
+   ],
+   "after": [
+    "you tie up"
+   ]
+  },
+  {
+   "word": "enrolas",
+   "before": [
+    "to enroll"
+   ],
+   "after": [
+    "you enroll"
+   ]
+  },
+  {
+   "word": "nominás",
+   "before": [
+    "to nominate"
+   ],
+   "after": [
+    "you nominate"
+   ]
+  },
+  {
+   "word": "vaciado",
+   "before": [
+    "to empty"
+   ],
+   "after": [
+    "emptied"
+   ]
+  },
+  {
+   "word": "acicalás",
+   "before": [
+    "to dress up"
+   ],
+   "after": [
+    "you dress up"
+   ]
+  },
+  {
+   "word": "enviciás",
+   "before": [
+    "to addict"
+   ],
+   "after": [
+    "you addict"
+   ]
+  },
+  {
+   "word": "guayamos",
+   "before": [
+    "to grind"
+   ],
+   "after": [
+    "we grind"
+   ]
+  },
+  {
+   "word": "madrugás",
+   "before": [
+    "to get up early"
+   ],
+   "after": [
+    "you get up early"
+   ]
+  },
+  {
+   "word": "chingamos",
+   "before": [
+    "to fuck with"
+   ],
+   "after": [
+    "we fuck with"
+   ]
+  },
+  {
+   "word": "enrolamos",
+   "before": [
+    "to enroll"
+   ],
+   "after": [
+    "we enroll"
+   ]
+  },
+  {
+   "word": "combinamos",
+   "before": [
+    "to combine"
+   ],
+   "after": [
+    "we combine"
+   ]
+  },
+  {
+   "word": "jangueamos",
+   "before": [
+    "to hang out"
+   ],
+   "after": [
+    "we hang out"
+   ]
+  },
+  {
+   "word": "descarrilás",
+   "before": [
+    "to be derailed"
+   ],
+   "after": [
+    "you are derailed"
+   ]
+  },
+  {
+   "word": "parqueábamos",
+   "before": [
+    "to park"
+   ],
+   "after": [
+    "we parked"
+   ]
+  },
+  {
+   "word": "malentiendas",
+   "before": [
+    "to misunderstand"
+   ],
+   "after": [
+    "you misunderstand"
+   ]
+  }
+ ]
+}
