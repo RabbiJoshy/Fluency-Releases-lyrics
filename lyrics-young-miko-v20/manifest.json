@@ -1,0 +1,55 @@
+{
+  "artist_count": 1,
+  "assignment_status": "lyrics_v20_margin_confidence",
+  "card_count": 4461,
+  "catalog_content_id": "sha256:b9c5e7aa42720b4df4b12ef268d4cb8ba5d9a71d6515cdbf314615f2a536b27f",
+  "catalog_path": "app/config/artists.json",
+  "composition_content_id": "sha256:ca070ceb3f221cac25eca2de860e08b27c5d9efabfd764d5671521be26bb648e",
+  "composition_path": "composition.json",
+  "created_at": "2026-09-27T18:42:40.845121+00:00",
+  "files": [
+    {
+      "bytes": 9788349,
+      "content_id": "sha256:91fbea3f6fb7daf8a71357e968debd43eaddb084852625c158ad8ba44bb4300a",
+      "path": "app/Artists/es/young-miko/examples.json"
+    },
+    {
+      "bytes": 12761314,
+      "content_id": "sha256:3872e56b40bf832f04bc614ae2708c2ce619c6c7dd86d0c8e7161440d0e3ed24",
+      "path": "app/Artists/es/young-miko/index.json"
+    },
+    {
+      "bytes": 287955,
+      "content_id": "sha256:6ace9abb61b0a4b9299f351c1eb881031edf769436a4d38155474391414b67e1",
+      "path": "app/Artists/es/young-miko/songs.json"
+    },
+    {
+      "bytes": 5842633,
+      "content_id": "sha256:ec3c61977d47945989a556617de5e6258cbc618f653338ac1ff7272689ae061b",
+      "path": "app/Artists/es/young-miko/vocabulary_master.json"
+    },
+    {
+      "bytes": 13255048,
+      "content_id": "sha256:8703b8e84453ff0211f457016c28dcf71dc20557a0c15b4dd2218037ca6a0380",
+      "path": "app/Artists/es/young-miko/wsd-evidence.json"
+    },
+    {
+      "bytes": 19388,
+      "content_id": "sha256:66319a59f07f9c4a66ce02e8bb14b39fd1c1602e08554c4fb89b5d19addd2241",
+      "path": "app/Artists/spotify_tracks.json"
+    },
+    {
+      "bytes": 698,
+      "content_id": "sha256:b9c5e7aa42720b4df4b12ef268d4cb8ba5d9a71d6515cdbf314615f2a536b27f",
+      "path": "app/config/artists.json"
+    }
+  ],
+  "languages": [
+    "es"
+  ],
+  "manifest_version": "lyrics-release-manifest/v1",
+  "mode": "lyrics",
+  "publication_status": "candidate_release",
+  "release_id": "lyrics-young-miko-v20",
+  "supported_specificity_status": "not_recorded_in_materialized_sources"
+}

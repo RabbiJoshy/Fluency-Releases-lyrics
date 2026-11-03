@@ -1,0 +1,40 @@
+{
+  "artists": [
+    {
+      "assignment_bridge_status": "forced_leaf_preserved_supported_specificity_not_recorded",
+      "card_count": 10687,
+      "example_card_count": 10687,
+      "examples_content_id": "sha256:9dd90b929b91fb6f798d58c04862ef336df7cae177f01470535235c8dc5aea53",
+      "index_content_id": "sha256:d9756fe8df4bf89bea88a323e3f7e1c9ef874f4ab4f3ce803806db0b1c6f03a1",
+      "language": "es",
+      "master_content_id": "sha256:16ed14b72493a065ca818b250d6151f37c329dfbceb0cb3a8cb19a25ac669d61",
+      "migration_status": "retained_materialized_output_for_product_parity",
+      "name": "Bad Bunny",
+      "slug": "bad-bunny",
+      "song_count": 295,
+      "source_id": "wsd_v19_plant_bad-bunny",
+      "wsd_evidence_content_id": "sha256:23436ae4e5360c93fa5694e357e7744a767c089ff64361df9f910075eca85228"
+    }
+  ],
+  "composition_version": "lyrics-release-composition/v1",
+  "conflict_policy": "error",
+  "created_at": "2026-09-27T16:02:04.652711+00:00",
+  "fallback_policy": "none",
+  "layers": {
+    "artist:bad-bunny": {
+      "artifact_ids": {
+        "examples": "sha256:9dd90b929b91fb6f798d58c04862ef336df7cae177f01470535235c8dc5aea53",
+        "index": "sha256:d9756fe8df4bf89bea88a323e3f7e1c9ef874f4ab4f3ce803806db0b1c6f03a1",
+        "master": "sha256:16ed14b72493a065ca818b250d6151f37c329dfbceb0cb3a8cb19a25ac669d61",
+        "wsd_evidence": "sha256:23436ae4e5360c93fa5694e357e7744a767c089ff64361df9f910075eca85228"
+      },
+      "requires": {},
+      "source_id": "wsd_v19_plant_bad-bunny",
+      "source_type": "retained_materialized_output"
+    }
+  },
+  "mode": "lyrics",
+  "omitted_layers": [],
+  "publication_status": "candidate_release",
+  "release_id": "lyrics-bad-bunny-v19"
+}

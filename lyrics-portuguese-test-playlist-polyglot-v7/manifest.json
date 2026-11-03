@@ -1,0 +1,59 @@
+{
+  "artist_count": 1,
+  "assignment_status": "native_v7_and_retained_forced_leaf_assignments",
+  "card_count": 869,
+  "catalog_content_id": "sha256:f15bc6b3c15e6e0b46593d3b371fb620dc0a8e6b384c7c8bdf4f808155d7eead",
+  "catalog_path": "app/config/artists.json",
+  "composition_content_id": "sha256:f0c8ed157cbb8eb660eb5f81b41bd68fc3ee04bff6199cdd0772461c70c66b20",
+  "composition_path": "composition.json",
+  "created_at": "2026-11-03T20:05:24.296424+00:00",
+  "files": [
+    {
+      "bytes": 1314420,
+      "content_id": "sha256:c138273e581e1204d2a53cc6b6b6aeec3634d5418a87da3db22168823eba483b",
+      "path": "app/Artists/pt/portuguese-test-playlist/examples.json"
+    },
+    {
+      "bytes": 529692,
+      "content_id": "sha256:fb7602d0aed7f082287498421b89228d073cd237a9366d48c8f89f424deb0d25",
+      "path": "app/Artists/pt/portuguese-test-playlist/index.json"
+    },
+    {
+      "bytes": 85162,
+      "content_id": "sha256:6951d718fc07ace9fbaebfd3d1a2d2ad743b3c734449446ea78c838e1a37a303",
+      "path": "app/Artists/pt/portuguese-test-playlist/songs.json"
+    },
+    {
+      "bytes": 421652,
+      "content_id": "sha256:be1ed58c220c89053d21da37ca3181199fb45cfb1e757a0b6e5cd7c286e9d258",
+      "path": "app/Artists/pt/portuguese-test-playlist/vocabulary_master.json"
+    },
+    {
+      "bytes": 3456366,
+      "content_id": "sha256:b1746a15ffe80d25669639e43fab66b7a66c009fff5626936c425ba9d36576f4",
+      "path": "app/Artists/pt/portuguese-test-playlist/wsd-evidence.json"
+    },
+    {
+      "bytes": 3,
+      "content_id": "sha256:ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "path": "app/Artists/spotify_tracks.json"
+    },
+    {
+      "bytes": 914,
+      "content_id": "sha256:f15bc6b3c15e6e0b46593d3b371fb620dc0a8e6b384c7c8bdf4f808155d7eead",
+      "path": "app/config/artists.json"
+    }
+  ],
+  "languages": [
+    "pt"
+  ],
+  "manifest_version": "lyrics-release-manifest/v1",
+  "mode": "lyrics",
+  "publication_status": "inactive_migration_audit",
+  "release_id": "lyrics-portuguese-test-playlist-polyglot-v7",
+  "supported_specificity_status": "available_for_native_v7_artists",
+  "derived_from": {
+    "release_id": "lyrics-portuguese-test-playlist-polyglot-v6",
+    "change": "senses carry dictionary references (merged cards share lines by sense)"
+  }
+}
